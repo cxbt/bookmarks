@@ -9,10 +9,10 @@ categories: ["CVE", "Web", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:40:08.770Z"
-updated_at: "2026-07-23T08:25:12.042Z"
+updated_at: "2026-07-23T08:28:17.897Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-www-synacktiv-com-synacktiv-com-1900e76c.png"
 ---
 
