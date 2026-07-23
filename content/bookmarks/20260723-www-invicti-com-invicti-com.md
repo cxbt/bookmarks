@@ -9,10 +9,10 @@ categories: ["AI", "Bughunt", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:36:29.778Z"
-updated_at: "2026-07-23T08:12:52.511Z"
+updated_at: "2026-07-23T08:14:51.648Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-www-invicti-com-invicti-com.png"
 ---
 
