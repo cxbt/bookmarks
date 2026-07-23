@@ -9,10 +9,10 @@ categories: ["notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:31:17.752Z"
-updated_at: "2026-07-23T07:56:44.820Z"
+updated_at: "2026-07-23T07:56:56.707Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-omergil-blogspot-com-omergil-blogspot-com.png"
 ---
 
