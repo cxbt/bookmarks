@@ -9,10 +9,10 @@ categories: ["Bughunt", "Web", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:41:19.294Z"
-updated_at: "2026-07-23T08:29:10.055Z"
+updated_at: "2026-07-23T08:32:08.868Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-blog-orange-tw-blog-orange-tw-88fd0c0e.png"
 ---
 
