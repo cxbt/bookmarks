@@ -9,10 +9,10 @@ categories: ["TI", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:40:03.687Z"
-updated_at: "2026-07-23T08:24:57.685Z"
+updated_at: "2026-07-23T08:28:03.266Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-futuresearch-ai-futuresearch-ai.png"
 ---
 
