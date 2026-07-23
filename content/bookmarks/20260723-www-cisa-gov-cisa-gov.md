@@ -9,10 +9,10 @@ categories: ["notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:29:23.120Z"
-updated_at: "2026-07-23T07:50:40.207Z"
+updated_at: "2026-07-23T07:50:54.433Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-www-cisa-gov-cisa-gov.png"
 ---
 
