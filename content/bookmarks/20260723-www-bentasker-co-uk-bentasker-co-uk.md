@@ -9,10 +9,10 @@ categories: ["notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:30:22.879Z"
-updated_at: "2026-07-23T07:53:48.885Z"
+updated_at: "2026-07-23T07:53:57.386Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-www-bentasker-co-uk-bentasker-co-uk.png"
 ---
 
