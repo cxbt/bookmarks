@@ -1,0 +1,19 @@
+---
+id: "20260723-openai-com-openai-com-989e332f"
+title: "openai.com"
+source_url: "https://openai.com/index/harness-engineering"
+normalized_url: "https://openai.com/index/harness-engineering"
+domain: "openai.com"
+favicon: "https://openai.com/favicon.ico"
+categories: ["AI", "notion-migration"]
+read: ""
+nominate: ""
+created_at: "2026-07-23T07:40:54.482Z"
+updated_at: "2026-07-23T07:40:54.482Z"
+backup_status: "queued"
+backup_type: "singlefile"
+thumbnail_status: "queued"
+thumbnail: "/images/bookmarks/20260723-openai-com-openai-com-989e332f.png"
+---
+
+Harness engineering: leveraging Codex in an agent-first world
