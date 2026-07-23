@@ -9,10 +9,10 @@ categories: ["AI", "Bughunt", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:41:29.092Z"
-updated_at: "2026-07-23T08:29:43.914Z"
+updated_at: "2026-07-23T08:32:50.840Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-www-hacktron-ai-hacktron-ai.png"
 ---
 
