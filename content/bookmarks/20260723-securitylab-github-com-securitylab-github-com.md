@@ -9,10 +9,10 @@ categories: ["CVE", "Web", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:32:36.674Z"
-updated_at: "2026-07-23T08:00:50.130Z"
+updated_at: "2026-07-23T08:01:20.014Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-securitylab-github-com-securitylab-github-com.png"
 ---
 
