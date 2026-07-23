@@ -9,10 +9,10 @@ categories: ["notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:28:53.492Z"
-updated_at: "2026-07-23T07:49:07.310Z"
+updated_at: "2026-07-23T07:49:15.582Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-blog-huli-tw-blog-huli-tw.png"
 ---
 
