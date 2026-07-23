@@ -9,10 +9,10 @@ categories: ["AI", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:40:59.364Z"
-updated_at: "2026-07-23T08:27:53.823Z"
+updated_at: "2026-07-23T08:31:06.567Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-github-com-github-com-3866d3fe.png"
 ---
 
