@@ -9,10 +9,10 @@ categories: ["notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:31:22.698Z"
-updated_at: "2026-07-23T07:57:05.896Z"
+updated_at: "2026-07-23T07:57:21.409Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-www-sonarsource-com-sonarsource-com.png"
 ---
 
