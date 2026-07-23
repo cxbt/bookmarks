@@ -9,10 +9,10 @@ categories: ["Scan", "notion-migration"]
 read: "✅"
 nominate: ""
 created_at: "2026-07-23T07:38:53.483Z"
-updated_at: "2026-07-23T08:21:17.195Z"
+updated_at: "2026-07-23T08:24:15.270Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-loworbitsecurity-com-loworbitsecurity-com.png"
 ---
 
