@@ -9,10 +9,10 @@ categories: ["notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:31:27.556Z"
-updated_at: "2026-07-23T07:57:26.641Z"
+updated_at: "2026-07-23T07:57:45.829Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-speakerdeck-com-speakerdeck-com.png"
 ---
 
