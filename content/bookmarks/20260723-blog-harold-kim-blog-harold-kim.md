@@ -9,10 +9,10 @@ categories: ["CTF", "CVE", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:38:48.462Z"
-updated_at: "2026-07-23T08:20:49.576Z"
+updated_at: "2026-07-23T08:24:01.806Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-blog-harold-kim-blog-harold-kim.png"
 ---
 
