@@ -9,10 +9,10 @@ categories: ["Scan", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:27:39.793Z"
-updated_at: "2026-07-23T07:27:39.793Z"
+updated_at: "2026-07-23T07:44:42.774Z"
 backup_status: "queued"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-embee-research-ghost-io-embee-research-ghost-io.png"
 ---
 
