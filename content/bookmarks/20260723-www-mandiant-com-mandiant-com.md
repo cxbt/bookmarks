@@ -9,10 +9,10 @@ categories: ["notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:31:32.366Z"
-updated_at: "2026-07-23T07:57:33.742Z"
+updated_at: "2026-07-23T07:57:58.754Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-www-mandiant-com-mandiant-com.png"
 ---
 
