@@ -9,10 +9,10 @@ categories: ["Scan", "Web", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:31:51.996Z"
-updated_at: "2026-07-23T07:58:30.721Z"
+updated_at: "2026-07-23T07:58:54.311Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-portswigger-net-portswigger-net-69d9300b.png"
 ---
 
