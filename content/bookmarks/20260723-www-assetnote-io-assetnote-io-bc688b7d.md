@@ -9,10 +9,10 @@ categories: ["CVE", "Web", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:35:45.001Z"
-updated_at: "2026-07-23T08:10:40.025Z"
+updated_at: "2026-07-23T08:12:35.918Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-www-assetnote-io-assetnote-io-bc688b7d.png"
 ---
 
