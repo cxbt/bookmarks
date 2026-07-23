@@ -9,10 +9,10 @@ categories: ["Bughunt", "Web", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:38:23.800Z"
-updated_at: "2026-07-23T08:19:36.811Z"
+updated_at: "2026-07-23T08:22:20.075Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-canalun-company-canalun-company.png"
 ---
 
