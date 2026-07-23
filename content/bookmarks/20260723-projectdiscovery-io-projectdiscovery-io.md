@@ -9,10 +9,10 @@ categories: ["Scan", "Web", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:36:39.696Z"
-updated_at: "2026-07-23T08:13:20.013Z"
+updated_at: "2026-07-23T08:15:19.891Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-projectdiscovery-io-projectdiscovery-io.png"
 ---
 
