@@ -9,10 +9,10 @@ categories: ["notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:28:43.869Z"
-updated_at: "2026-07-23T07:48:37.575Z"
+updated_at: "2026-07-23T07:48:45.841Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-gist-github-com-gist-github-com.png"
 ---
 
