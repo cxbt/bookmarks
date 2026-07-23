@@ -9,10 +9,10 @@ categories: ["Web", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:37:14.480Z"
-updated_at: "2026-07-23T08:15:25.064Z"
+updated_at: "2026-07-23T08:17:34.908Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-blog-lexfo-fr-blog-lexfo-fr.png"
 ---
 
