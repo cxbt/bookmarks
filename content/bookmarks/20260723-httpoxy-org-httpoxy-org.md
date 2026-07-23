@@ -9,10 +9,10 @@ categories: ["notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:30:42.670Z"
-updated_at: "2026-07-23T07:54:56.087Z"
+updated_at: "2026-07-23T07:55:04.629Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-httpoxy-org-httpoxy-org.png"
 ---
 
