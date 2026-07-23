@@ -9,10 +9,10 @@ categories: ["notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:28:04.293Z"
-updated_at: "2026-07-23T07:28:04.293Z"
+updated_at: "2026-07-23T07:46:17.936Z"
 backup_status: "queued"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-sakurity-com-sakurity-com.png"
 ---
 
