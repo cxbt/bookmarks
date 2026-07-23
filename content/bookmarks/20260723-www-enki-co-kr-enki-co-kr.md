@@ -9,10 +9,10 @@ categories: ["CTF", "Pentest", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:40:19.216Z"
-updated_at: "2026-07-23T08:25:54.025Z"
+updated_at: "2026-07-23T08:29:04.998Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-www-enki-co-kr-enki-co-kr.png"
 ---
 
