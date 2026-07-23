@@ -9,10 +9,10 @@ categories: ["CVE", "Web", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:36:49.628Z"
-updated_at: "2026-07-23T08:13:46.594Z"
+updated_at: "2026-07-23T08:15:51.894Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-zhero-web-sec-github-io-zhero-web-sec-github-io.png"
 ---
 
