@@ -9,10 +9,10 @@ categories: ["notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:18:26.136Z"
-updated_at: "2026-07-23T07:18:26.136Z"
+updated_at: "2026-07-23T07:20:03.278Z"
 backup_status: "queued"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-devco-re-devco-re.png"
 ---
 
