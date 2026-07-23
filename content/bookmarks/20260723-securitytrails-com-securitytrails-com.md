@@ -9,10 +9,10 @@ categories: ["notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:28:29.076Z"
-updated_at: "2026-07-23T07:47:46.935Z"
+updated_at: "2026-07-23T07:47:54.887Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-securitytrails-com-securitytrails-com.png"
 ---
 
