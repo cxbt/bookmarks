@@ -9,10 +9,10 @@ categories: ["AI", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:34:35.054Z"
-updated_at: "2026-07-23T08:07:15.886Z"
+updated_at: "2026-07-23T08:08:41.688Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-googleprojectzero-blogspot-com-googleprojectzero-blogspot-com.png"
 ---
 
