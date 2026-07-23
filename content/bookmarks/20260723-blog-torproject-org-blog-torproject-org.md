@@ -9,10 +9,10 @@ categories: ["notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:31:12.694Z"
-updated_at: "2026-07-23T07:56:24.694Z"
+updated_at: "2026-07-23T07:56:33.059Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-blog-torproject-org-blog-torproject-org.png"
 ---
 
