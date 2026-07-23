@@ -9,10 +9,10 @@ categories: ["CVE", "System", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:33:25.842Z"
-updated_at: "2026-07-23T08:03:20.314Z"
+updated_at: "2026-07-23T08:04:09.706Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-www-qualys-com-qualys-com.png"
 ---
 
