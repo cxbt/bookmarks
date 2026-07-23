@@ -9,10 +9,10 @@ categories: ["Web", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:34:00.007Z"
-updated_at: "2026-07-23T08:05:21.186Z"
+updated_at: "2026-07-23T08:06:16.578Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-browser-engineering-browser-engineering.png"
 ---
 
