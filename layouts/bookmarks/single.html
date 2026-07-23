@@ -1,0 +1,76 @@
+{{ define "main" }}
+{{ $url := .Params.source_url | default .Params.normalized_url }}
+<article class="page detail">
+  <section class="detail-main">
+    {{ with .Params.thumbnail }}
+      <div class="detail-image">
+        <img src="{{ . | relURL }}" alt="">
+      </div>
+    {{ end }}
+    <div class="detail-content">
+      <div class="detail-domain">
+        {{ with .Params.favicon }}<img src="{{ . }}" alt="">{{ end }}
+        <span>{{ .Params.domain }}</span>
+      </div>
+      <h1>{{ .Title }}</h1>
+      <div class="bookmark-meta">
+        {{ partial "status-pills.html" . }}
+      </div>
+      <div class="detail-description">
+        {{ .Content }}
+      </div>
+    </div>
+  </section>
+
+  <aside class="detail-side" aria-label="Metadata">
+    <a class="button" href="{{ $url }}" rel="noopener noreferrer" target="_blank">Open URL</a>
+
+    <div class="side-group">
+      <div class="side-label">Domain</div>
+      <div class="side-value">{{ .Params.domain }}</div>
+    </div>
+
+    <div class="side-group">
+      <div class="side-label">URL</div>
+      <div class="side-value">
+        <a class="external-link" href="{{ $url }}" rel="noopener noreferrer" target="_blank">{{ $url }}</a>
+      </div>
+    </div>
+
+    {{ with .Params.categories }}
+      <div class="side-group">
+        <div class="side-label">Categories</div>
+        <div class="bookmark-meta">
+          {{ range . }}
+            <a class="tag" href="{{ printf "/categories/%s/" (. | urlize) | relURL }}">{{ . }}</a>
+          {{ end }}
+        </div>
+      </div>
+    {{ end }}
+
+    {{ with .Params.created_at }}
+      <div class="side-group">
+        <div class="side-label">Created</div>
+        <div class="side-value">{{ (time .).Format "2006-01-02" }}</div>
+      </div>
+    {{ end }}
+
+    {{ with .Params.updated_at }}
+      <div class="side-group">
+        <div class="side-label">Updated</div>
+        <div class="side-value">{{ (time .).Format "2006-01-02 15:04" }}</div>
+      </div>
+    {{ end }}
+
+    <div class="side-group">
+      <div class="side-label">Backup</div>
+      <div class="side-value">{{ .Params.backup_status | default "pending" }}</div>
+    </div>
+
+    <div class="side-group">
+      <div class="side-label">Thumbnail</div>
+      <div class="side-value">{{ .Params.thumbnail_status | default "pending" }}</div>
+    </div>
+  </aside>
+</article>
+{{ end }}

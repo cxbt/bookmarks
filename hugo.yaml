@@ -1,0 +1,24 @@
+baseURL: "https://bookmark.cxbt.kr/"
+languageCode: "en-us"
+title: "OpenBookmark"
+enableRobotsTXT: true
+disableHugoGeneratorInject: true
+summaryLength: 24
+
+permalinks:
+  bookmarks: "/bookmarks/:slug/"
+
+taxonomies:
+  category: "categories"
+
+params:
+  description: "Public bookmark archive"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: false
+
+outputs:
+  home:
+    - HTML

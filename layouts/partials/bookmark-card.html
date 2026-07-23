@@ -1,0 +1,52 @@
+{{ $url := .Params.source_url | default .Params.normalized_url }}
+{{ $categories := delimit (.Params.categories | default slice) " " }}
+<article
+  class="bookmark-card"
+  data-bookmark-card
+  data-title="{{ .Title }}"
+  data-domain="{{ .Params.domain }}"
+  data-categories="{{ $categories }}">
+  <a class="bookmark-card__media" href="{{ .RelPermalink }}" aria-label="{{ .Title }}">
+    {{ with .Params.thumbnail }}
+      <img src="{{ . | relURL }}" alt="">
+    {{ else }}
+      <div class="bookmark-card__fallback">
+        {{ with $.Params.favicon }}
+          <img src="{{ . }}" alt="">
+        {{ else }}
+          <span class="brand__mark" aria-hidden="true">⌁</span>
+        {{ end }}
+      </div>
+    {{ end }}
+  </a>
+
+  <div class="bookmark-card__body">
+    <div class="bookmark-card__domain">
+      {{ with .Params.favicon }}<img src="{{ . }}" alt="">{{ end }}
+      <span>{{ .Params.domain }}</span>
+    </div>
+
+    <h2 class="bookmark-card__title">
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </h2>
+
+    <p class="bookmark-card__desc">{{ .Plain | truncate 132 }}</p>
+
+    <div class="bookmark-meta">
+      {{ partial "status-pills.html" . }}
+    </div>
+
+    {{ with .Params.categories }}
+      <div class="bookmark-meta">
+        {{ range first 4 . }}
+          <a class="tag" href="{{ printf "/categories/%s/" (. | urlize) | relURL }}">{{ . }}</a>
+        {{ end }}
+      </div>
+    {{ end }}
+
+    <div class="bookmark-card__footer">
+      <span>{{ with .Params.created_at }}{{ (time .).Format "2006-01-02" }}{{ end }}</span>
+      <a class="external-link" href="{{ $url }}" rel="noopener noreferrer" target="_blank">Open</a>
+    </div>
+  </div>
+</article>

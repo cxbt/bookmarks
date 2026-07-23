@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="{{ site.LanguageCode }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} · {{ site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
+  {{ $css := resources.Get "css/main.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
+</head>
+<body>
+  <div class="site-shell">
+    <header class="site-header">
+      <div class="site-header__inner">
+        <a class="brand" href="{{ "/" | relURL }}" aria-label="{{ site.Title }}">
+          <span class="brand__mark" aria-hidden="true">⌁</span>
+          <span class="brand__text">{{ site.Title }}</span>
+        </a>
+        <nav class="site-nav" aria-label="Primary">
+          <a href="{{ "/" | relURL }}">Bookmarks</a>
+          <a href="{{ "/categories/" | relURL }}">Categories</a>
+        </nav>
+      </div>
+    </header>
+    <main>
+      {{ block "main" . }}{{ end }}
+    </main>
+  </div>
+  {{ $js := resources.Get "js/bookmarks.js" | minify | fingerprint }}
+  <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" defer></script>
+</body>
+</html>

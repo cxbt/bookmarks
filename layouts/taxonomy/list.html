@@ -1,0 +1,29 @@
+{{ define "main" }}
+{{ $pages := .RegularPages }}
+<section class="page">
+  <div class="page-head">
+    <div>
+      <h1 class="page-title">{{ .Title }}</h1>
+      <p class="page-subtitle">Category</p>
+    </div>
+    <span class="count-pill"><span data-bookmark-count>{{ len $pages }}</span>&nbsp;items</span>
+  </div>
+
+  <div class="toolbar">
+    <div class="search">
+      <input type="search" placeholder="Search" aria-label="Search" data-bookmark-search>
+    </div>
+    <div class="category-row">
+      <a class="tag" href="{{ "/" | relURL }}">All</a>
+    </div>
+  </div>
+
+  <div class="bookmark-grid" data-bookmark-list>
+    {{ if $pages }}
+      {{ range $pages.ByParam "created_at" | collections.Reverse }}{{ partial "bookmark-card.html" . }}{{ end }}
+    {{ else }}
+      <div class="empty">No bookmarks</div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

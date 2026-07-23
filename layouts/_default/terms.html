@@ -1,0 +1,20 @@
+{{ define "main" }}
+<section class="page">
+  <div class="page-head">
+    <div>
+      <h1 class="page-title">{{ .Title }}</h1>
+    </div>
+    <span class="count-pill">{{ len .Data.Terms }} items</span>
+  </div>
+
+  <div class="category-row" style="justify-content:flex-start">
+    {{ range $name, $taxonomy := .Data.Terms.Alphabetical }}
+      <a class="tag" href="{{ .Page.RelPermalink }}">
+        {{ .Page.Title }} · {{ .Count }}
+      </a>
+    {{ else }}
+      <div class="empty">No categories</div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

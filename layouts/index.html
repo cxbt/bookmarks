@@ -1,0 +1,32 @@
+{{ define "main" }}
+{{ $bookmarks := where site.RegularPages "Section" "bookmarks" }}
+<section class="page">
+  <div class="page-head">
+    <div>
+      <h1 class="page-title">Bookmarks</h1>
+      <p class="page-subtitle">Public archive</p>
+    </div>
+    <span class="count-pill"><span data-bookmark-count>{{ len $bookmarks }}</span>&nbsp;items</span>
+  </div>
+
+  <div class="toolbar">
+    <div class="search">
+      <input type="search" placeholder="Search" aria-label="Search" data-bookmark-search>
+    </div>
+    <div class="category-row">
+      <a class="tag" href="{{ "/" | relURL }}">All</a>
+      {{ range $name, $taxonomy := site.Taxonomies.categories }}
+        <a class="tag" href="{{ printf "/categories/%s/" ($name | urlize) | relURL }}">{{ $name }}</a>
+      {{ end }}
+    </div>
+  </div>
+
+  <div class="bookmark-grid" data-bookmark-list>
+    {{ if $bookmarks }}
+      {{ range $bookmarks.ByParam "created_at" | collections.Reverse }}{{ partial "bookmark-card.html" . }}{{ end }}
+    {{ else }}
+      <div class="empty">No bookmarks</div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

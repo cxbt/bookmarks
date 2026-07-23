@@ -1,0 +1,12 @@
+.DS_Store
+public/
+resources/_gen/
+.hugo_build.lock
+
+# Local editor state
+.vscode/
+.idea/
+
+# Local generated test data
+*.tmp
+*.log
