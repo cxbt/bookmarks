@@ -9,10 +9,10 @@ categories: ["CVE", "Web", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:18:21.100Z"
-updated_at: "2026-07-23T07:18:21.100Z"
+updated_at: "2026-07-23T07:19:48.433Z"
 backup_status: "queued"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-blog-projectdiscovery-io-blog-projectdiscovery-io.png"
 ---
 
