@@ -9,10 +9,10 @@ categories: ["notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:29:57.697Z"
-updated_at: "2026-07-23T07:52:38.872Z"
+updated_at: "2026-07-23T07:52:50.343Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-fireshellsecurity-team-fireshellsecurity-team.png"
 ---
 
