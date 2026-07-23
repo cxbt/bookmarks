@@ -9,10 +9,10 @@ categories: ["AI", "CTF", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:40:24.047Z"
-updated_at: "2026-07-23T08:26:07.453Z"
+updated_at: "2026-07-23T08:29:18.036Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-danisy-eisyraf-portfolio-super-site-danisy-eisyraf-portfolio-super-site.png"
 ---
 
