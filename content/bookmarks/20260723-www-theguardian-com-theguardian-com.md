@@ -9,10 +9,10 @@ categories: ["notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:30:08.003Z"
-updated_at: "2026-07-23T07:53:08.712Z"
+updated_at: "2026-07-23T07:53:16.834Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-www-theguardian-com-theguardian-com.png"
 ---
 
