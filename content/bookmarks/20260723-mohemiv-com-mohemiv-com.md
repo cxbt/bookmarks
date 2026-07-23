@@ -9,10 +9,10 @@ categories: ["notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:18:11.328Z"
-updated_at: "2026-07-23T07:19:34.324Z"
+updated_at: "2026-07-23T07:20:41.264Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-mohemiv-com-mohemiv-com.png"
 ---
 
