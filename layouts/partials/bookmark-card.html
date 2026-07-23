@@ -1,11 +1,14 @@
 {{ $url := .Params.source_url | default .Params.normalized_url }}
 {{ $categories := delimit (.Params.categories | default slice) " " }}
+{{ $created := 0 }}
+{{ with .Params.created_at }}{{ $created = (time .).Unix }}{{ end }}
 <article
   class="bookmark-card"
   data-bookmark-card
   data-title="{{ .Title }}"
   data-domain="{{ .Params.domain }}"
-  data-categories="{{ $categories }}">
+  data-categories="{{ $categories | lower }}"
+  data-created="{{ $created }}">
   <a class="bookmark-card__media" href="{{ .RelPermalink }}" aria-label="{{ .Title }}">
     {{ with .Params.thumbnail }}
       <img src="{{ . | relURL }}" alt="">

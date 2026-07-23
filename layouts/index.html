@@ -9,14 +9,29 @@
     <span class="count-pill"><span data-bookmark-count>{{ len $bookmarks }}</span>&nbsp;items</span>
   </div>
 
-  <div class="toolbar">
+  <div class="toolbar" data-bookmark-toolbar>
     <div class="search">
       <input type="search" placeholder="Search" aria-label="Search" data-bookmark-search>
     </div>
-    <div class="category-row">
-      <a class="tag" href="{{ "/" | relURL }}">All</a>
+
+    <div class="toolbar-controls">
+      <div class="segmented" aria-label="View">
+        <button type="button" class="segmented__button active" data-view-mode="grid" aria-pressed="true">Grid</button>
+        <button type="button" class="segmented__button" data-view-mode="list" aria-pressed="false">List</button>
+      </div>
+
+      <select class="select-control" aria-label="Sort" data-bookmark-sort>
+        <option value="newest">Newest</option>
+        <option value="oldest">Oldest</option>
+        <option value="title">Title</option>
+        <option value="domain">Domain</option>
+      </select>
+    </div>
+
+    <div class="category-row" data-category-filters>
+      <button type="button" class="tag active" data-category-filter="">All</button>
       {{ range $name, $taxonomy := site.Taxonomies.categories }}
-        <a class="tag" href="{{ printf "/categories/%s/" ($name | urlize) | relURL }}">{{ $name }}</a>
+        <button type="button" class="tag" data-category-filter="{{ $name | lower }}">{{ $name }}</button>
       {{ end }}
     </div>
   </div>
