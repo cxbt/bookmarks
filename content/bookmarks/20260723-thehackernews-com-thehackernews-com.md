@@ -9,10 +9,10 @@ categories: ["notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:31:02.712Z"
-updated_at: "2026-07-23T07:55:55.269Z"
+updated_at: "2026-07-23T07:56:03.987Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-thehackernews-com-thehackernews-com.png"
 ---
 
