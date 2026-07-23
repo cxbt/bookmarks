@@ -9,10 +9,10 @@ categories: ["CVE", "System", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:35:50.219Z"
-updated_at: "2026-07-23T08:10:47.609Z"
+updated_at: "2026-07-23T08:12:47.336Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-thottysploity-github-io-thottysploity-github-io.png"
 ---
 
