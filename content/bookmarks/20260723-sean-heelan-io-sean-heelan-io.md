@@ -9,10 +9,10 @@ categories: ["AI", "Bughunt", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:39:13.562Z"
-updated_at: "2026-07-23T08:22:25.180Z"
+updated_at: "2026-07-23T08:25:20.818Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-sean-heelan-io-sean-heelan-io.png"
 ---
 
