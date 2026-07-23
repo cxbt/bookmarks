@@ -9,10 +9,10 @@ categories: ["CVE", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:34:55.032Z"
-updated_at: "2026-07-23T08:08:19.747Z"
+updated_at: "2026-07-23T08:09:43.494Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-claroty-com-claroty-com.png"
 ---
 
