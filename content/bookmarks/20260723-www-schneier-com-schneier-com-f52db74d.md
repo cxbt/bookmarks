@@ -9,10 +9,10 @@ categories: ["AI", "Bughunt", "notion-migration"]
 read: "✅"
 nominate: "⭐️"
 created_at: "2026-07-23T07:39:53.437Z"
-updated_at: "2026-07-23T08:24:33.857Z"
+updated_at: "2026-07-23T08:27:36.662Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-www-schneier-com-schneier-com-f52db74d.png"
 ---
 
