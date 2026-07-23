@@ -9,10 +9,10 @@ categories: ["AI", "Bughunt", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:37:29.736Z"
-updated_at: "2026-07-23T08:16:15.904Z"
+updated_at: "2026-07-23T08:19:04.336Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-invariantlabs-ai-invariantlabs-ai.png"
 ---
 
