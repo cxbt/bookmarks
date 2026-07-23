@@ -9,10 +9,10 @@ categories: ["Bughunt", "System", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:37:59.356Z"
-updated_at: "2026-07-23T08:21:03.918Z"
+updated_at: "2026-07-23T08:23:32.696Z"
 backup_status: "failed"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "failed"
 thumbnail: "/images/bookmarks/20260723-syssec-kaist-ac-kr-syssec-kaist-ac-kr.png"
 ---
 
