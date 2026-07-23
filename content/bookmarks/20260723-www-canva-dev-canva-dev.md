@@ -9,10 +9,10 @@ categories: ["notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:29:33.207Z"
-updated_at: "2026-07-23T07:51:12.760Z"
+updated_at: "2026-07-23T07:51:21.231Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-www-canva-dev-canva-dev.png"
 ---
 
