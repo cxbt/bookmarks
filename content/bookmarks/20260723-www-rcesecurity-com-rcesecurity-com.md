@@ -9,10 +9,10 @@ categories: ["CVE", "Web", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:16:41.760Z"
-updated_at: "2026-07-23T07:20:21.914Z"
+updated_at: "2026-07-23T07:20:26.912Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-www-rcesecurity-com-rcesecurity-com.png"
 ---
 
