@@ -9,10 +9,10 @@ categories: ["TI", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:39:18.580Z"
-updated_at: "2026-07-23T08:22:39.431Z"
+updated_at: "2026-07-23T08:25:38.040Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-aliasrobotics-com-aliasrobotics-com.png"
 ---
 
