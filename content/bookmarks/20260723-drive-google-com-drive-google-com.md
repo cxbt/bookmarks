@@ -9,10 +9,10 @@ categories: ["Web", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:32:31.766Z"
-updated_at: "2026-07-23T08:00:36.407Z"
+updated_at: "2026-07-23T08:01:06.060Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-drive-google-com-drive-google-com.png"
 ---
 
