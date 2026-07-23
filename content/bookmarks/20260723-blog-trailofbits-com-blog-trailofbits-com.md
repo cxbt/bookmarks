@@ -9,10 +9,10 @@ categories: ["Crypto", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:37:04.539Z"
-updated_at: "2026-07-23T08:14:34.933Z"
+updated_at: "2026-07-23T08:16:44.050Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-blog-trailofbits-com-blog-trailofbits-com.png"
 ---
 
