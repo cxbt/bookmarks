@@ -9,10 +9,10 @@ categories: ["Web", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:32:26.949Z"
-updated_at: "2026-07-23T08:00:20.115Z"
+updated_at: "2026-07-23T08:00:44.955Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-blog-projectdiscovery-io-blog-projectdiscovery-io-9e1cba0d.png"
 ---
 
