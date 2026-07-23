@@ -9,10 +9,10 @@ categories: ["Bughunt", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:35:00.034Z"
-updated_at: "2026-07-23T08:08:33.516Z"
+updated_at: "2026-07-23T08:09:57.181Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-www-synacktiv-com-synacktiv-com-d5a3fe72.png"
 ---
 
