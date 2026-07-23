@@ -9,10 +9,10 @@ categories: ["Bughunt", "Web", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:34:09.910Z"
-updated_at: "2026-07-23T08:05:45.618Z"
+updated_at: "2026-07-23T08:06:41.545Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-nickguitar-medium-com-nickguitar-medium-com.png"
 ---
 
