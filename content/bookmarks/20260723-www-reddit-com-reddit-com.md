@@ -9,10 +9,10 @@ categories: ["Web", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:38:04.265Z"
-updated_at: "2026-07-23T08:18:36.980Z"
+updated_at: "2026-07-23T08:21:12.096Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-www-reddit-com-reddit-com.png"
 ---
 
