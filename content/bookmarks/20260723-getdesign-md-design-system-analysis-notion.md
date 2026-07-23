@@ -9,10 +9,10 @@ categories: ["AI"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:59:38.469Z"
-updated_at: "2026-07-23T08:31:47.751Z"
+updated_at: "2026-07-23T08:33:04.764Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-getdesign-md-design-system-analysis-notion.png"
 ---
 
