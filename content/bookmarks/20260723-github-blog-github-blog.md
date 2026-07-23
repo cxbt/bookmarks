@@ -9,10 +9,10 @@ categories: ["notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:29:03.385Z"
-updated_at: "2026-07-23T07:49:33.691Z"
+updated_at: "2026-07-23T07:49:42.314Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-github-blog-github-blog.png"
 ---
 
