@@ -9,10 +9,10 @@ categories: ["Web", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:37:49.586Z"
-updated_at: "2026-07-23T08:17:40.115Z"
+updated_at: "2026-07-23T08:20:03.698Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-localmess-github-io-localmess-github-io.png"
 ---
 
