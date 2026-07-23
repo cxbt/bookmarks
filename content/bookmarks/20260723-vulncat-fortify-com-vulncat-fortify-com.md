@@ -9,10 +9,10 @@ categories: ["Pentest", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:35:19.872Z"
-updated_at: "2026-07-23T08:09:34.840Z"
+updated_at: "2026-07-23T08:11:10.083Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-vulncat-fortify-com-vulncat-fortify-com.png"
 ---
 
