@@ -9,10 +9,10 @@ categories: ["Bughunt", "Embedded", "System", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:41:24.184Z"
-updated_at: "2026-07-23T08:29:23.392Z"
+updated_at: "2026-07-23T08:32:29.834Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-blog-78researchlab-com-blog-78researchlab-com.png"
 ---
 
