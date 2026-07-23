@@ -9,10 +9,10 @@ categories: ["Bughunt", "notion-migration"]
 read: "✅"
 nominate: "⭐️"
 created_at: "2026-07-23T07:35:09.897Z"
-updated_at: "2026-07-23T08:09:01.917Z"
+updated_at: "2026-07-23T08:10:34.783Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-medium-com-medium-com-dbba2061.png"
 ---
 
