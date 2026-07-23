@@ -9,10 +9,10 @@ categories: ["Bughunt", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:39:33.635Z"
-updated_at: "2026-07-23T08:23:27.406Z"
+updated_at: "2026-07-23T08:26:32.741Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-jhalon-github-io-jhalon-github-io.png"
 ---
 
