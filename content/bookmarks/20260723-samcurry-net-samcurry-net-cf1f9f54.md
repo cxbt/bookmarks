@@ -9,10 +9,10 @@ categories: ["Bughunt", "Web", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:35:30.123Z"
-updated_at: "2026-07-23T08:10:02.679Z"
+updated_at: "2026-07-23T08:11:46.211Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-samcurry-net-samcurry-net-cf1f9f54.png"
 ---
 
