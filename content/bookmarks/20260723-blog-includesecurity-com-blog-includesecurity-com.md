@@ -9,10 +9,10 @@ categories: ["Web", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:37:39.502Z"
-updated_at: "2026-07-23T08:17:04.104Z"
+updated_at: "2026-07-23T08:19:31.749Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-blog-includesecurity-com-blog-includesecurity-com.png"
 ---
 
