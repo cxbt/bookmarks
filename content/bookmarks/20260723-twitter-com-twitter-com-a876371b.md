@@ -9,10 +9,10 @@ categories: ["Scan", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:32:56.279Z"
-updated_at: "2026-07-23T08:01:39.634Z"
+updated_at: "2026-07-23T08:02:19.609Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-twitter-com-twitter-com-a876371b.png"
 ---
 
