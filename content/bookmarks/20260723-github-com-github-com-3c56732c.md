@@ -9,10 +9,10 @@ categories: ["CVE", "Web", "notion-migration"]
 read: "🧑🏻‍💻"
 nominate: "⭐️"
 created_at: "2026-07-23T07:37:19.621Z"
-updated_at: "2026-07-23T08:15:42.710Z"
+updated_at: "2026-07-23T08:18:01.379Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-github-com-github-com-3c56732c.png"
 ---
 
