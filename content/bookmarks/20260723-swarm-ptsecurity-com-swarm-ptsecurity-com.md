@@ -9,10 +9,10 @@ categories: ["Web", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:37:09.394Z"
-updated_at: "2026-07-23T08:18:28.624Z"
+updated_at: "2026-07-23T08:20:44.266Z"
 backup_status: "failed"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "failed"
 thumbnail: "/images/bookmarks/20260723-swarm-ptsecurity-com-swarm-ptsecurity-com.png"
 ---
 
