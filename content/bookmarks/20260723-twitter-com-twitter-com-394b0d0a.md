@@ -9,10 +9,10 @@ categories: ["Web", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:32:17.110Z"
-updated_at: "2026-07-23T07:59:52.471Z"
+updated_at: "2026-07-23T08:00:15.241Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-twitter-com-twitter-com-394b0d0a.png"
 ---
 
