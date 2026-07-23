@@ -9,10 +9,10 @@ categories: ["notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:26:44.317Z"
-updated_at: "2026-07-23T07:27:59.432Z"
+updated_at: "2026-07-23T07:43:30.259Z"
 backup_status: "queued"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-huntr-dev-huntr-dev.png"
 ---
 
