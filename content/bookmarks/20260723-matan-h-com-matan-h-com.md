@@ -9,10 +9,10 @@ categories: ["notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:28:19.299Z"
-updated_at: "2026-07-23T07:47:19.763Z"
+updated_at: "2026-07-23T07:47:28.013Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-matan-h-com-matan-h-com.png"
 ---
 
