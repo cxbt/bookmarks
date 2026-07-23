@@ -9,10 +9,10 @@ categories: ["notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:30:02.685Z"
-updated_at: "2026-07-23T07:52:55.595Z"
+updated_at: "2026-07-23T07:53:03.533Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-blog-munsiwoo-kr-blog-munsiwoo-kr.png"
 ---
 
