@@ -9,10 +9,10 @@ categories: ["notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:29:38.220Z"
-updated_at: "2026-07-23T07:51:26.615Z"
+updated_at: "2026-07-23T07:51:35.125Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-www-synacktiv-com-synacktiv-com.png"
 ---
 
