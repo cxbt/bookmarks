@@ -9,10 +9,10 @@ categories: ["Bughunt", "Web", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:40:13.692Z"
-updated_at: "2026-07-23T08:25:29.218Z"
+updated_at: "2026-07-23T08:28:31.795Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-flatt-tech-flatt-tech-dcd01b4c.png"
 ---
 
