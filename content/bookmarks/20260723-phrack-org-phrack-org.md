@@ -1,0 +1,19 @@
+---
+id: "20260723-phrack-org-phrack-org"
+title: "phrack.org"
+source_url: "https://phrack.org/issues/71/17"
+normalized_url: "https://phrack.org/issues/71/17"
+domain: "phrack.org"
+favicon: "https://phrack.org/favicon.ico"
+categories: ["LIFE", "notion-migration"]
+read: "✅"
+nominate: "⭐️"
+created_at: "2026-07-23T07:38:58.337Z"
+updated_at: "2026-07-23T07:38:58.337Z"
+backup_status: "queued"
+backup_type: "singlefile"
+thumbnail_status: "queued"
+thumbnail: "/images/bookmarks/20260723-phrack-org-phrack-org.png"
+---
+
+Hacking does not confirm to just a computer, take a wilder approach.
