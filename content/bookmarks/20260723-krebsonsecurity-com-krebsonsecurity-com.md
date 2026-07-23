@@ -9,10 +9,10 @@ categories: ["Web", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:37:54.501Z"
-updated_at: "2026-07-23T08:17:52.957Z"
+updated_at: "2026-07-23T08:20:58.401Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-krebsonsecurity-com-krebsonsecurity-com.png"
 ---
 
