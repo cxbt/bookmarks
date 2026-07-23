@@ -9,10 +9,10 @@ categories: ["AI", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:40:34.020Z"
-updated_at: "2026-07-23T08:26:38.002Z"
+updated_at: "2026-07-23T08:29:52.494Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-ryelang-org-ryelang-org.png"
 ---
 
