@@ -9,10 +9,10 @@ categories: ["Bughunt", "Web", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:35:39.982Z"
-updated_at: "2026-07-23T08:10:26.761Z"
+updated_at: "2026-07-23T08:12:20.928Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-portswigger-net-portswigger-net-7a172dfa.png"
 ---
 
