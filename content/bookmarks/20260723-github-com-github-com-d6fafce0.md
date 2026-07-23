@@ -9,10 +9,10 @@ categories: ["CTF", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:35:05.009Z"
-updated_at: "2026-07-23T08:08:48.521Z"
+updated_at: "2026-07-23T08:10:21.167Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-github-com-github-com-d6fafce0.png"
 ---
 
