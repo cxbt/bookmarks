@@ -9,10 +9,10 @@ categories: ["Web", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:36:14.818Z"
-updated_at: "2026-07-23T08:11:51.258Z"
+updated_at: "2026-07-23T08:13:54.705Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-joaxcar-com-joaxcar-com.png"
 ---
 
