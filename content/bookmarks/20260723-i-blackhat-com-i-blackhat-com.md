@@ -9,10 +9,10 @@ categories: ["AI", "Methodology", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:41:34.011Z"
-updated_at: "2026-07-23T08:32:14.460Z"
+updated_at: "2026-07-23T08:35:01.780Z"
 backup_status: "failed"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "failed"
 thumbnail: "/images/bookmarks/20260723-i-blackhat-com-i-blackhat-com.png"
 ---
 
