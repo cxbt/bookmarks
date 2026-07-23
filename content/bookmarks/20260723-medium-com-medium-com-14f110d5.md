@@ -9,10 +9,10 @@ categories: ["Bughunt", "Web", "notion-migration"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:34:45.163Z"
-updated_at: "2026-07-23T08:07:44.021Z"
+updated_at: "2026-07-23T08:09:10.864Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-medium-com-medium-com-14f110d5.png"
 ---
 
