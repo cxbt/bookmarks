@@ -9,10 +9,10 @@ categories: ["AI", "Bughunt", "notion-migration"]
 read: "✅"
 nominate: "⭐️"
 created_at: "2026-07-23T07:38:38.573Z"
-updated_at: "2026-07-23T08:20:29.825Z"
+updated_at: "2026-07-23T08:23:22.356Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/20260723-new-blog-ch4n3-kr-new-blog-ch4n3-kr.png"
 ---
 
