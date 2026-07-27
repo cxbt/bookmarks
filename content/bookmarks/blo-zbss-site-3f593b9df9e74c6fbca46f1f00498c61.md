@@ -6,7 +6,7 @@ source_url: "https://blo.zbss.site/jsp-webshell-免杀/"
 normalized_url: "https://blo.zbss.site/jsp-webshell-%E5%85%8D%E6%9D%80"
 domain: "blo.zbss.site"
 favicon: "/images/favicons/blo-zbss-site-3f593b9df9e74c6fbca46f1f00498c61.png"
-categories: ["Bughunt", "Web", "notion-migration"]
+categories: ["Bughunt", "Web"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:35:59.924Z"

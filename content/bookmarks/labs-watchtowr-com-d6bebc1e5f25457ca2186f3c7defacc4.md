@@ -6,7 +6,7 @@ source_url: "https://labs.watchtowr.com/you-already-have-our-personal-data-take-
 normalized_url: "https://labs.watchtowr.com/you-already-have-our-personal-data-take-our-phone-calls-too-freepbx-cve-2025-57819"
 domain: "labs.watchtowr.com"
 favicon: "/images/favicons/labs-watchtowr-com-d6bebc1e5f25457ca2186f3c7defacc4.png"
-categories: ["CVE", "Web", "notion-migration"]
+categories: ["CVE", "Web"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:38:28.861Z"

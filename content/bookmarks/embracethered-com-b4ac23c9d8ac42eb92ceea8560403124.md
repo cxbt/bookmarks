@@ -6,7 +6,7 @@ source_url: "https://embracethered.com/blog/posts/2024/chatgpt-persistent-denial
 normalized_url: "https://embracethered.com/blog/posts/2024/chatgpt-persistent-denial-of-service"
 domain: "embracethered.com"
 favicon: "/images/favicons/embracethered-com-b4ac23c9d8ac42eb92ceea8560403124.png"
-categories: ["AI", "notion-migration"]
+categories: ["AI"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:34:40.105Z"

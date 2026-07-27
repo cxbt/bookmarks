@@ -6,7 +6,7 @@ source_url: "https://github.com/blacklanternsecurity/bbot"
 normalized_url: "https://github.com/blacklanternsecurity/bbot"
 domain: "github.com"
 favicon: "/images/favicons/github-com-1b130d6e152e4aa4a0f7654c45f9c8ef.png"
-categories: ["Scan", "notion-migration"]
+categories: ["Scan"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:34:30.106Z"

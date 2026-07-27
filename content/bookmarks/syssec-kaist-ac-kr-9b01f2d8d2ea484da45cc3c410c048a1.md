@@ -6,7 +6,7 @@ source_url: "https://syssec.kaist.ac.kr/pub/2025/Too_Much_Good.pdf"
 normalized_url: "https://syssec.kaist.ac.kr/pub/2025/Too_Much_Good.pdf"
 domain: "syssec.kaist.ac.kr"
 favicon: ""
-categories: ["Bughunt", "System", "notion-migration"]
+categories: ["Bughunt", "System"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:37:59.356Z"

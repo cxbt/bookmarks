@@ -6,7 +6,7 @@ source_url: "https://github.com/novasecurityio/community-scripts/tree/main/GTM-s
 normalized_url: "https://github.com/novasecurityio/community-scripts/tree/main/GTM-subdomain-enum"
 domain: "github.com"
 favicon: "/images/favicons/github-com-efc262e773c34e8ba978af97cbd8c9dd.png"
-categories: ["Scan", "notion-migration"]
+categories: ["Scan"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:33:06.288Z"

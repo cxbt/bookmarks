@@ -6,7 +6,7 @@ source_url: "https://blog.huli.tw/2023/01/10/en/security-of-encrypt-or-hash-pass
 normalized_url: "https://blog.huli.tw/2023/01/10/en/security-of-encrypt-or-hash-password-in-client-side"
 domain: "blog.huli.tw"
 favicon: "/images/favicons/blog-huli-tw-14bc7c2206cc45dbbaff9fa2f370eab2.png"
-categories: ["notion-migration"]
+categories: []
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:28:58.357Z"

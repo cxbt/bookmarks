@@ -6,7 +6,7 @@ source_url: "https://www.alignmentforum.org/posts/vERGLBpDE8m5mpT6t/autonomous-r
 normalized_url: "https://www.alignmentforum.org/posts/vERGLBpDE8m5mpT6t/autonomous-replication-and-adaptation-an-attempt-at-a"
 domain: "www.alignmentforum.org"
 favicon: ""
-categories: ["AI", "notion-migration"]
+categories: ["AI"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:33:45.383Z"

@@ -6,7 +6,7 @@ source_url: "https://projectdiscovery.io/blog/guide-to-dns-takeovers"
 normalized_url: "https://projectdiscovery.io/blog/guide-to-dns-takeovers"
 domain: "projectdiscovery.io"
 favicon: "/images/favicons/projectdiscovery-io-677b0ebd093e4d92b19c93b6a0f0c75a.png"
-categories: ["Scan", "Web", "notion-migration"]
+categories: ["Scan", "Web"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:36:39.696Z"

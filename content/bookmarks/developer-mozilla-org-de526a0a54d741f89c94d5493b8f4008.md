@@ -6,7 +6,7 @@ source_url: "https://developer.mozilla.org/en-US/docs/Web/API/HTML_Sanitizer_API
 normalized_url: "https://developer.mozilla.org/en-US/docs/Web/API/HTML_Sanitizer_API"
 domain: "developer.mozilla.org"
 favicon: "/images/favicons/developer-mozilla-org-de526a0a54d741f89c94d5493b8f4008.png"
-categories: ["notion-migration"]
+categories: []
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:30:57.625Z"

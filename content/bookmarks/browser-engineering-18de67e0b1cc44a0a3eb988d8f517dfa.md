@@ -6,7 +6,7 @@ source_url: "https://browser.engineering/"
 normalized_url: "https://browser.engineering"
 domain: "browser.engineering"
 favicon: "/images/favicons/browser-engineering-18de67e0b1cc44a0a3eb988d8f517dfa.png"
-categories: ["Web", "notion-migration"]
+categories: ["Web"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:34:00.007Z"

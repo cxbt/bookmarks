@@ -6,7 +6,7 @@ source_url: "https://googleprojectzero.blogspot.com/2024/06/project-naptime.html
 normalized_url: "https://googleprojectzero.blogspot.com/2024/06/project-naptime.html"
 domain: "googleprojectzero.blogspot.com"
 favicon: "/images/favicons/googleprojectzero-blogspot-com-686a59535bd3413f9e7f772501dc6534.png"
-categories: ["AI", "notion-migration"]
+categories: ["AI"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:34:35.054Z"

@@ -6,7 +6,6 @@
       <h1 class="page-title">{{ .Title }}</h1>
       <p class="page-subtitle">Category</p>
     </div>
-    <span class="count-pill"><span data-bookmark-count>{{ len $pages }}</span>&nbsp;items</span>
   </div>
 
   <div class="toolbar">
@@ -14,7 +13,7 @@
       <input type="search" placeholder="Search" aria-label="Search" data-bookmark-search>
     </div>
     <div class="category-row">
-      <a class="tag" href="{{ "/" | relURL }}">All</a>
+      <span class="tag">All</span>
     </div>
   </div>
 

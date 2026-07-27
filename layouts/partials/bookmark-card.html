@@ -4,7 +4,7 @@
 {{ $created := 0 }}
 {{ with .Params.created_at }}{{ $created = (time .).Unix }}{{ end }}
 {{ $createdLabel := "" }}
-{{ with .Params.created_at }}{{ $createdLabel = (time .).Format "2006-01-02" }}{{ end }}
+{{ with .Params.created_at }}{{ $createdLabel = (time .).Format "2006-01-02 15:04" }}{{ end }}
 {{ $thumbnail := .Params.thumbnail | default "" }}
 {{ $hasThumbnail := false }}
 {{ if $thumbnail }}{{ $hasThumbnail = fileExists (printf "static/%s" (replaceRE "^/" "" $thumbnail)) }}{{ end }}
@@ -19,8 +19,11 @@
   data-title="{{ .Title }}"
   data-domain="{{ $domain }}"
   data-categories="{{ $categories | lower }}"
-  data-created="{{ $created }}">
-  <a class="bookmark-card__media" href="{{ .RelPermalink }}" aria-label="{{ .Title }}">
+  data-created="{{ $created }}"
+  data-external-url="{{ $url }}"
+  tabindex="0"
+  role="link">
+  <a class="bookmark-card__media" href="{{ $url }}" rel="noopener noreferrer" target="_blank" aria-label="{{ .Title }}">
     {{ if $hasThumbnail }}
       <img src="{{ $thumbnail | relURL }}" alt="" loading="lazy" data-fallback-image>
     {{ else }}
@@ -46,7 +49,7 @@
       <div class="bookmark-card__property bookmark-card__property--categories">
         {{ with .Params.categories }}
           {{ range first 4 . }}
-            <a class="tag" href="{{ printf "/categories/%s/" (. | urlize) | relURL }}">{{ . }}</a>
+            <span class="tag">{{ . }}</span>
           {{ end }}
         {{ else }}
           <span class="property-empty">No category</span>
@@ -56,10 +59,6 @@
         {{ partial "status-pills.html" . }}
       </div>
       <div class="bookmark-card__property bookmark-card__property--created">{{ $createdLabel }}</div>
-    </div>
-
-    <div class="bookmark-card__footer">
-      <a class="external-link" href="{{ $url }}" rel="noopener noreferrer" target="_blank">Open source</a>
     </div>
   </div>
 </article>

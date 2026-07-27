@@ -6,7 +6,7 @@ source_url: "https://www.qualys.com/regresshion-cve-2024-6387/"
 normalized_url: "https://www.qualys.com/regresshion-cve-2024-6387"
 domain: "www.qualys.com"
 favicon: "/images/favicons/www-qualys-com-5a732b274ed8400684e3e22ff72ae2c9.png"
-categories: ["CVE", "System", "notion-migration"]
+categories: ["CVE", "System"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:33:25.842Z"

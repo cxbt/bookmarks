@@ -6,7 +6,7 @@ source_url: "https://trufflesecurity.com/blog/millions-at-risk-due-to-google-s-o
 normalized_url: "https://trufflesecurity.com/blog/millions-at-risk-due-to-google-s-oauth-flaw"
 domain: "trufflesecurity.com"
 favicon: "/images/favicons/trufflesecurity-com-c74f3343dbe2472696ae0c670c463100.png"
-categories: ["Scan", "Web", "notion-migration"]
+categories: ["Scan", "Web"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:36:34.741Z"

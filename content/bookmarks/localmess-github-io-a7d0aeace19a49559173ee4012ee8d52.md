@@ -6,7 +6,7 @@ source_url: "https://localmess.github.io/"
 normalized_url: "https://localmess.github.io"
 domain: "localmess.github.io"
 favicon: ""
-categories: ["Web", "notion-migration"]
+categories: ["Web"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:37:49.586Z"

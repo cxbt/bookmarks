@@ -6,7 +6,7 @@ source_url: "https://www.enki.co.kr/media-center/blog/enki-redteam-ctf-jeopardy-
 normalized_url: "https://www.enki.co.kr/media-center/blog/enki-redteam-ctf-jeopardy-writeup"
 domain: "www.enki.co.kr"
 favicon: "/images/favicons/www-enki-co-kr-c85b4f3ff1f948348d68504a9d486de7.png"
-categories: ["CTF", "Pentest", "notion-migration"]
+categories: ["CTF", "Pentest"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:40:19.216Z"

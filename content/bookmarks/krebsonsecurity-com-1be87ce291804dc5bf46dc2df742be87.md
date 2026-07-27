@@ -6,7 +6,7 @@ source_url: "https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed
 normalized_url: "https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire-fed-by-fake-captchas"
 domain: "krebsonsecurity.com"
 favicon: "/images/favicons/krebsonsecurity-com-1be87ce291804dc5bf46dc2df742be87.png"
-categories: ["Web", "notion-migration"]
+categories: ["Web"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:37:54.501Z"

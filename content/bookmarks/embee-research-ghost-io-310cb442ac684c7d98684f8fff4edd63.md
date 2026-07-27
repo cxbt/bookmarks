@@ -6,7 +6,7 @@ source_url: "https://embee-research.ghost.io/shodan-censys-queries/"
 normalized_url: "https://embee-research.ghost.io/shodan-censys-queries"
 domain: "embee-research.ghost.io"
 favicon: "/images/favicons/embee-research-ghost-io-310cb442ac684c7d98684f8fff4edd63.png"
-categories: ["Scan", "notion-migration"]
+categories: ["Scan"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:27:39.793Z"

@@ -6,7 +6,7 @@ source_url: "https://labs.watchtowr.com/more-governments-backdoors-in-your-backd
 normalized_url: "https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors"
 domain: "labs.watchtowr.com"
 favicon: "/images/favicons/labs-watchtowr-com-83b4306aad8149539062026299cdf5cf.png"
-categories: ["Web", "notion-migration"]
+categories: ["Web"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:36:19.926Z"

@@ -6,7 +6,7 @@ source_url: "https://nickguitar.medium.com/hacking-nasa-critical-ssrf-subdomain-
 normalized_url: "https://nickguitar.medium.com/hacking-nasa-critical-ssrf-subdomain-takeover-xss-699be0ce3c06"
 domain: "nickguitar.medium.com"
 favicon: "/images/favicons/nickguitar-medium-com-b4767b6ad2884ac9869c9abd3158ebe6.png"
-categories: ["Bughunt", "Web", "notion-migration"]
+categories: ["Bughunt", "Web"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:34:09.910Z"

@@ -6,7 +6,7 @@ source_url: "https://www.invicti.com/blog/security-labs/first-tokens-the-achille
 normalized_url: "https://www.invicti.com/blog/security-labs/first-tokens-the-achilles-heel-of-llms"
 domain: "www.invicti.com"
 favicon: "/images/favicons/www-invicti-com-046c3b89ed8742d9b910b7b4e35a54f6.png"
-categories: ["AI", "Bughunt", "notion-migration"]
+categories: ["AI", "Bughunt"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:36:29.778Z"

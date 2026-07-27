@@ -6,7 +6,7 @@ source_url: "https://blog.orange.tw/posts/2018-10-hitcon-ctf-2018-one-line-php-c
 normalized_url: "https://blog.orange.tw/posts/2018-10-hitcon-ctf-2018-one-line-php-challenge"
 domain: "blog.orange.tw"
 favicon: "/images/favicons/blog-orange-tw-c75e041bb01147d7a830ac21b90f07af.png"
-categories: ["CTF", "Web", "notion-migration"]
+categories: ["CTF", "Web"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:36:05.025Z"

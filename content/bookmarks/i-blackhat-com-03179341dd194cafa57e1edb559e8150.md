@@ -6,7 +6,7 @@ source_url: "https://i.blackhat.com/BH-EU-25/eu-25-Ding-Token-Injection-Crashing
 normalized_url: "https://i.blackhat.com/BH-EU-25/eu-25-Ding-Token-Injection-Crashing-LLM-Inference-With-Special-Tokens-final.pdf"
 domain: "i.blackhat.com"
 favicon: ""
-categories: ["AI", "Methodology", "notion-migration"]
+categories: ["AI", "Methodology"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:41:34.011Z"

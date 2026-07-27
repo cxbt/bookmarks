@@ -6,7 +6,7 @@ source_url: "https://www.reddit.com/r/websecurityresearch/comments/1kqk5nn/using
 normalized_url: "https://www.reddit.com/r/websecurityresearch/comments/1kqk5nn/using_random_peoples_browsers_to_ddos_others"
 domain: "www.reddit.com"
 favicon: "/images/favicons/www-reddit-com-4ba836df4cfb429582d3927bee24a2b7.png"
-categories: ["Web", "notion-migration"]
+categories: ["Web"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:38:04.265Z"

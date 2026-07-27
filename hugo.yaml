@@ -5,8 +5,6 @@ enableRobotsTXT: true
 disableHugoGeneratorInject: true
 summaryLength: 24
 
-permalinks:
-  bookmarks: "/bookmarks/:slug/"
 
 taxonomies:
   category: "categories"

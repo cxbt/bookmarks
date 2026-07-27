@@ -6,7 +6,7 @@ source_url: "https://www.mintlify.com/VineeTagarwaL-code/claude-code/concepts/ho
 normalized_url: "https://www.mintlify.com/VineeTagarwaL-code/claude-code/concepts/how-it-works"
 domain: "www.mintlify.com"
 favicon: "/images/favicons/www-mintlify-com-643cb64ca8a448cb83cfae1c20eafba6.png"
-categories: ["AI", "notion-migration"]
+categories: ["AI"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:40:39.118Z"

@@ -6,7 +6,7 @@ source_url: "https://github.blog/2023-08-17-mtls-when-certificate-authentication
 normalized_url: "https://github.blog/2023-08-17-mtls-when-certificate-authentication-is-done-wrong"
 domain: "github.blog"
 favicon: "/images/favicons/github-blog-ed8d16dc03e54cee9aba55e6921a53e3.png"
-categories: ["notion-migration"]
+categories: []
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:29:03.385Z"

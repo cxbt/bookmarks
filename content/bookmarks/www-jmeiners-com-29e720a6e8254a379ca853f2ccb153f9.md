@@ -6,7 +6,7 @@ source_url: "https://www.jmeiners.com/lc3-vm/"
 normalized_url: "https://www.jmeiners.com/lc3-vm"
 domain: "www.jmeiners.com"
 favicon: ""
-categories: ["CS", "notion-migration"]
+categories: ["CS"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:36:09.966Z"

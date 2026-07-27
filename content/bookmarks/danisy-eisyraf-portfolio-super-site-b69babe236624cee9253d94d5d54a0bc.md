@@ -6,7 +6,7 @@ source_url: "https://danisy-eisyraf-portfolio.super.site/blog-posts/how-i-make-c
 normalized_url: "https://danisy-eisyraf-portfolio.super.site/blog-posts/how-i-make-ctf-challenges-harder-to-solve-with-ai"
 domain: "danisy-eisyraf-portfolio.super.site"
 favicon: "/images/favicons/danisy-eisyraf-portfolio-super-site-b69babe236624cee9253d94d5d54a0bc.png"
-categories: ["AI", "CTF", "notion-migration"]
+categories: ["AI", "CTF"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:40:24.047Z"

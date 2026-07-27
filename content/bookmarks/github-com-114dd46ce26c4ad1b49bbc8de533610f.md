@@ -6,7 +6,7 @@ source_url: "https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE"
 normalized_url: "https://github.com/xcanwin/CVE-2023-4357-Chrome-XXE"
 domain: "github.com"
 favicon: "/images/favicons/github-com-114dd46ce26c4ad1b49bbc8de533610f.png"
-categories: ["CVE", "notion-migration"]
+categories: ["CVE"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:33:01.269Z"

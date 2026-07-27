@@ -6,7 +6,7 @@ source_url: "https://www.opensourceprojects.dev/post/f92d73de-f92f-412a-bc8f-08f
 normalized_url: "https://www.opensourceprojects.dev/post/f92d73de-f92f-412a-bc8f-08ff5bf80115"
 domain: "www.opensourceprojects.dev"
 favicon: "/images/favicons/www-opensourceprojects-dev-2d2ee4e54508409ea002c2ce062bda11.png"
-categories: ["Scan", "notion-migration"]
+categories: ["Scan"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:39:48.319Z"

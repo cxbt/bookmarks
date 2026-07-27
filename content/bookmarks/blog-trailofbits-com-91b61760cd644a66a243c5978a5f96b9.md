@@ -6,7 +6,7 @@ source_url: "https://blog.trailofbits.com/2025/06/17/unexpected-security-footgun
 normalized_url: "https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers"
 domain: "blog.trailofbits.com"
 favicon: "/images/favicons/blog-trailofbits-com-91b61760cd644a66a243c5978a5f96b9.png"
-categories: ["Bughunt", "notion-migration"]
+categories: ["Bughunt"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:38:18.843Z"

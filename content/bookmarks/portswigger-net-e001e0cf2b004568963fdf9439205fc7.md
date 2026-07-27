@@ -6,7 +6,7 @@ source_url: "https://portswigger.net/research/exploiting-cors-misconfigurations-
 normalized_url: "https://portswigger.net/research/exploiting-cors-misconfigurations-for-bitcoins-and-bounties"
 domain: "portswigger.net"
 favicon: "/images/favicons/portswigger-net-e001e0cf2b004568963fdf9439205fc7.png"
-categories: ["Bughunt", "Web", "notion-migration"]
+categories: ["Bughunt", "Web"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:35:39.982Z"

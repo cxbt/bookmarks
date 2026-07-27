@@ -6,7 +6,7 @@ source_url: "https://blog.slonser.info/posts/make-self-xss-great-again/"
 normalized_url: "https://blog.slonser.info/posts/make-self-xss-great-again"
 domain: "blog.slonser.info"
 favicon: ""
-categories: ["Web", "notion-migration"]
+categories: ["Web"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:38:09.117Z"

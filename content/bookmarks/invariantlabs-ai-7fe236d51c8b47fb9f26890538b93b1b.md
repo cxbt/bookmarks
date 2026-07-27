@@ -6,7 +6,7 @@ source_url: "https://invariantlabs.ai/blog/mcp-security-notification-tool-poison
 normalized_url: "https://invariantlabs.ai/blog/mcp-security-notification-tool-poisoning-attacks"
 domain: "invariantlabs.ai"
 favicon: "/images/favicons/invariantlabs-ai-7fe236d51c8b47fb9f26890538b93b1b.png"
-categories: ["AI", "Bughunt", "notion-migration"]
+categories: ["AI", "Bughunt"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:37:29.736Z"

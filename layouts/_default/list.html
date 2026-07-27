@@ -9,7 +9,6 @@
       <h1 class="page-title">{{ .Title }}</h1>
       {{ with .Description }}<p class="page-subtitle">{{ . }}</p>{{ end }}
     </div>
-    <span class="count-pill"><span data-bookmark-count>{{ len $pages }}</span>&nbsp;items</span>
   </div>
 
   <div class="toolbar">
@@ -17,9 +16,9 @@
       <input type="search" placeholder="Search" aria-label="Search" data-bookmark-search>
     </div>
     <div class="category-row">
-      <a class="tag" href="{{ "/" | relURL }}">All</a>
+      <span class="tag">All</span>
       {{ range $name, $taxonomy := site.Taxonomies.categories }}
-        <a class="tag" href="{{ printf "/categories/%s/" ($name | urlize) | relURL }}">{{ $name }}</a>
+        <span class="tag">{{ $name }}</span>
       {{ end }}
     </div>
   </div>

@@ -6,7 +6,7 @@ source_url: "https://twitter.com/aszx87410/status/1756941975201468774"
 normalized_url: "https://twitter.com/aszx87410/status/1756941975201468774"
 domain: "twitter.com"
 favicon: "/images/favicons/twitter-com-f355b3f5a46841cfabfc25de946b45d8.png"
-categories: ["CTF", "notion-migration"]
+categories: ["CTF"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:32:46.581Z"

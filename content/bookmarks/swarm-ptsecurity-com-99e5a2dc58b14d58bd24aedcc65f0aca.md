@@ -6,7 +6,7 @@ source_url: "https://swarm.ptsecurity.com/impossible-xxe-in-php/"
 normalized_url: "https://swarm.ptsecurity.com/impossible-xxe-in-php"
 domain: "swarm.ptsecurity.com"
 favicon: "/images/favicons/swarm-ptsecurity-com-99e5a2dc58b14d58bd24aedcc65f0aca.png"
-categories: ["Web", "notion-migration"]
+categories: ["Web"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:37:09.394Z"

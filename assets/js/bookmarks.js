@@ -16,6 +16,25 @@ for (const image of document.querySelectorAll("[data-fallback-image]")) {
   }, { once: true });
 }
 
+
+for (const card of document.querySelectorAll("[data-bookmark-card][data-external-url]")) {
+  card.addEventListener("click", (event) => {
+    if (event.target.closest("a, button, input, select, textarea")) {
+      return;
+    }
+
+    window.open(card.dataset.externalUrl, "_blank", "noopener,noreferrer");
+  });
+
+  card.addEventListener("keydown", (event) => {
+    if (event.key !== "Enter" || event.target !== card) {
+      return;
+    }
+
+    window.open(card.dataset.externalUrl, "_blank", "noopener,noreferrer");
+  });
+}
+
 if (searchInput && bookmarkList) {
   const cards = Array.from(bookmarkList.querySelectorAll("[data-bookmark-card]"));
   let activeCategory = "";

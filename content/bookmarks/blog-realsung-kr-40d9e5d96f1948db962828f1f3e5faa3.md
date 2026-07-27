@@ -6,7 +6,7 @@ source_url: "https://blog.realsung.kr/2025/12/04/2025-ACDC-Final"
 normalized_url: "https://blog.realsung.kr/2025/12/04/2025-ACDC-Final"
 domain: "blog.realsung.kr"
 favicon: ""
-categories: ["AI", "CTF", "notion-migration"]
+categories: ["AI", "CTF"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:41:14.158Z"

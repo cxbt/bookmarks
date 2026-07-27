@@ -6,7 +6,7 @@ source_url: "https://samcurry.net/hacking-millions-of-modems"
 normalized_url: "https://samcurry.net/hacking-millions-of-modems"
 domain: "samcurry.net"
 favicon: "/images/favicons/samcurry-net-08539ce3178a469ab1d72ec08279be0f.png"
-categories: ["Bughunt", "Web", "notion-migration"]
+categories: ["Bughunt", "Web"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:32:07.147Z"

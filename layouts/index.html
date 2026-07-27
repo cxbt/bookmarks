@@ -1,11 +1,13 @@
 {{ define "main" }}
 {{ $bookmarks := where site.RegularPages "Section" "bookmarks" }}
+<div class="page-cover">
+  <img src="{{ "/images/cover/books-NIJuEQw0RKg.jpg" | relURL }}" alt="">
+</div>
 <section class="page database-page">
   <div class="page-head page-head--notion">
     <div>
       <h1 class="page-title"><span aria-hidden="true">📌</span> bookmark.cxbt.kr</h1>
     </div>
-    <span class="count-pill"><span data-bookmark-count>{{ len $bookmarks }}</span>&nbsp;items</span>
   </div>
 
   <div class="toolbar" data-bookmark-toolbar>

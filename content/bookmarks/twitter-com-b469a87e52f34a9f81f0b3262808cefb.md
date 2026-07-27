@@ -6,7 +6,7 @@ source_url: "https://twitter.com/kevin_mizu/status/1701922141791211776"
 normalized_url: "https://twitter.com/kevin_mizu/status/1701922141791211776"
 domain: "twitter.com"
 favicon: "/images/favicons/twitter-com-b469a87e52f34a9f81f0b3262808cefb.png"
-categories: ["notion-migration"]
+categories: []
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:29:43.069Z"

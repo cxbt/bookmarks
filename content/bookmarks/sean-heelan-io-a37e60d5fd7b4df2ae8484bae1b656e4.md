@@ -6,7 +6,7 @@ source_url: "https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-o
 normalized_url: "https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms"
 domain: "sean.heelan.io"
 favicon: "/images/favicons/sean-heelan-io-a37e60d5fd7b4df2ae8484bae1b656e4.png"
-categories: ["AI", "Bughunt", "notion-migration"]
+categories: ["AI", "Bughunt"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:39:13.562Z"

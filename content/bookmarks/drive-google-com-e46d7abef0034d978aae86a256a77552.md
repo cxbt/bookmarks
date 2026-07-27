@@ -6,7 +6,7 @@ source_url: "https://drive.google.com/file/d/1W33xHPBeqEkPf-FcvPWuXC4JGWar8wHt/v
 normalized_url: "https://drive.google.com/file/d/1W33xHPBeqEkPf-FcvPWuXC4JGWar8wHt/view"
 domain: "drive.google.com"
 favicon: "/images/favicons/drive-google-com-e46d7abef0034d978aae86a256a77552.png"
-categories: ["Web", "notion-migration"]
+categories: ["Web"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:32:31.766Z"

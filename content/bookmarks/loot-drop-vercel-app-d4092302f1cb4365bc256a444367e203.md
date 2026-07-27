@@ -6,7 +6,7 @@ source_url: "https://loot-drop.vercel.app/"
 normalized_url: "https://loot-drop.vercel.app"
 domain: "loot-drop.vercel.app"
 favicon: "/images/favicons/loot-drop-vercel-app-d4092302f1cb4365bc256a444367e203.png"
-categories: ["LIFE", "notion-migration"]
+categories: ["LIFE"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:39:23.554Z"

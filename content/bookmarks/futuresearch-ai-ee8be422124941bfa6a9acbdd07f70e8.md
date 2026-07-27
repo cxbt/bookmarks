@@ -6,7 +6,7 @@ source_url: "https://futuresearch.ai/blog/no-prompt-injection-required"
 normalized_url: "https://futuresearch.ai/blog/no-prompt-injection-required"
 domain: "futuresearch.ai"
 favicon: "/images/favicons/futuresearch-ai-ee8be422124941bfa6a9acbdd07f70e8.png"
-categories: ["TI", "notion-migration"]
+categories: ["TI"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:40:03.687Z"

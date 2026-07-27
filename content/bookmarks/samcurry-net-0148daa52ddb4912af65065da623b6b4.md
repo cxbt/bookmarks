@@ -6,7 +6,7 @@ source_url: "https://samcurry.net/hacking-kia#http-request-to-search-vin-using-k
 normalized_url: "https://samcurry.net/hacking-kia"
 domain: "samcurry.net"
 favicon: "/images/favicons/samcurry-net-0148daa52ddb4912af65065da623b6b4.png"
-categories: ["Bughunt", "Web", "notion-migration"]
+categories: ["Bughunt", "Web"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:35:30.123Z"

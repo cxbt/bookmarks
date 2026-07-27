@@ -6,7 +6,7 @@ source_url: "https://www.synacktiv.com/en/publications/github-actions-exploitati
 normalized_url: "https://www.synacktiv.com/en/publications/github-actions-exploitation-self-hosted-runners"
 domain: "www.synacktiv.com"
 favicon: "/images/favicons/www-synacktiv-com-bccdf18555af468b8cd045dc51b4e7a7.png"
-categories: ["Bughunt", "notion-migration"]
+categories: ["Bughunt"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:35:00.034Z"

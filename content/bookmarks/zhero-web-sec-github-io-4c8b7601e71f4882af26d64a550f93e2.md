@@ -6,7 +6,7 @@ source_url: "https://zhero-web-sec.github.io/research-and-things/nextjs-cache-an
 normalized_url: "https://zhero-web-sec.github.io/research-and-things/nextjs-cache-and-chains-the-stale-elixir"
 domain: "zhero-web-sec.github.io"
 favicon: ""
-categories: ["CVE", "Web", "notion-migration"]
+categories: ["CVE", "Web"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:36:49.628Z"

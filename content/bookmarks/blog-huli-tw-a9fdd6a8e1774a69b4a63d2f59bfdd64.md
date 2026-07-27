@@ -6,7 +6,7 @@ source_url: "https://blog.huli.tw/2022/12/26/en/ctf-2022-web-js-summary/"
 normalized_url: "https://blog.huli.tw/2022/12/26/en/ctf-2022-web-js-summary"
 domain: "blog.huli.tw"
 favicon: "/images/favicons/blog-huli-tw-a9fdd6a8e1774a69b4a63d2f59bfdd64.png"
-categories: ["notion-migration"]
+categories: []
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:28:53.492Z"

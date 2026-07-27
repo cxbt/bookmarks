@@ -6,7 +6,7 @@ source_url: "https://getdesign.md/"
 normalized_url: "https://getdesign.md"
 domain: "getdesign.md"
 favicon: "/images/favicons/getdesign-md-fd91e130bbd844c6b17f317620b66a00.png"
-categories: ["AI", "notion-migration"]
+categories: ["AI"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:41:09.232Z"

@@ -6,7 +6,7 @@ source_url: "https://blog.torproject.org/security-audit-report-tor-browser-ooni/
 normalized_url: "https://blog.torproject.org/security-audit-report-tor-browser-ooni"
 domain: "blog.torproject.org"
 favicon: "/images/favicons/blog-torproject-org-360c5ccf58064110b7b29578443b2d12.png"
-categories: ["notion-migration"]
+categories: []
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:31:12.694Z"

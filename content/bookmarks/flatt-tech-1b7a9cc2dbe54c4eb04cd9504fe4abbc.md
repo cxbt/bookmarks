@@ -6,7 +6,7 @@ source_url: "https://flatt.tech/research/posts/remote-command-execution-in-googl
 normalized_url: "https://flatt.tech/research/posts/remote-command-execution-in-google-cloud-with-single-directory-deletion"
 domain: "flatt.tech"
 favicon: "/images/favicons/flatt-tech-1b7a9cc2dbe54c4eb04cd9504fe4abbc.png"
-categories: ["Bughunt", "Web", "notion-migration"]
+categories: ["Bughunt", "Web"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:40:13.692Z"

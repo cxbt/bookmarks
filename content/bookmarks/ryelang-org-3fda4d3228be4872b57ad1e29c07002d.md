@@ -6,7 +6,7 @@ source_url: "https://ryelang.org/blog/posts/cognitive-dark-forest"
 normalized_url: "https://ryelang.org/blog/posts/cognitive-dark-forest"
 domain: "ryelang.org"
 favicon: "/images/favicons/ryelang-org-3fda4d3228be4872b57ad1e29c07002d.png"
-categories: ["AI", "notion-migration"]
+categories: ["AI"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:40:34.020Z"

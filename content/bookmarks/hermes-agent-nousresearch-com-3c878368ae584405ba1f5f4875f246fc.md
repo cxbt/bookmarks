@@ -6,7 +6,7 @@ source_url: "https://hermes-agent.nousresearch.com/"
 normalized_url: "https://hermes-agent.nousresearch.com"
 domain: "hermes-agent.nousresearch.com"
 favicon: "/images/favicons/hermes-agent-nousresearch-com-3c878368ae584405ba1f5f4875f246fc.png"
-categories: ["AI", "notion-migration"]
+categories: ["AI"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:41:04.295Z"

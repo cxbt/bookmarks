@@ -6,7 +6,7 @@ source_url: "https://ufo.stealien.com/2023-07-31/bughunting-vulnerability-chaini
 normalized_url: "https://ufo.stealien.com/2023-07-31/bughunting-vulnerability-chaining-ko"
 domain: "ufo.stealien.com"
 favicon: "/images/favicons/ufo-stealien-com-335797d9daea4697aaa1be363b9052b9.png"
-categories: ["CVE", "Web", "notion-migration"]
+categories: ["CVE", "Web"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:31:46.981Z"

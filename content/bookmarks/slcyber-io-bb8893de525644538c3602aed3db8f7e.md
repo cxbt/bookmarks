@@ -6,7 +6,7 @@ source_url: "https://slcyber.io/assetnote-security-research-center/novel-ssrf-te
 normalized_url: "https://slcyber.io/assetnote-security-research-center/novel-ssrf-technique-involving-http-redirect-loops"
 domain: "slcyber.io"
 favicon: "/images/favicons/slcyber-io-bb8893de525644538c3602aed3db8f7e.png"
-categories: ["Pentest", "Web", "notion-migration"]
+categories: ["Pentest", "Web"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:38:14.088Z"

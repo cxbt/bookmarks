@@ -6,7 +6,7 @@ source_url: "https://blog.ethiack.com/blog/supercharging-bug-bounty-hunting-with
 normalized_url: "https://blog.ethiack.com/blog/supercharging-bug-bounty-hunting-with-ai"
 domain: "blog.ethiack.com"
 favicon: "/images/favicons/blog-ethiack-com-6901df8ab8114d558937dcc286e3fa49.png"
-categories: ["AI", "Bughunt", "notion-migration"]
+categories: ["AI", "Bughunt"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:36:59.672Z"

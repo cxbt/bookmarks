@@ -6,7 +6,7 @@ source_url: "https://justhaifei1.blogspot.com/"
 normalized_url: "https://justhaifei1.blogspot.com"
 domain: "justhaifei1.blogspot.com"
 favicon: "/images/favicons/justhaifei1-blogspot-com-2577431e0a024dc1b8569551408ff8fa.png"
-categories: ["TI", "notion-migration"]
+categories: ["TI"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:40:44.144Z"

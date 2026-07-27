@@ -6,7 +6,7 @@ source_url: "https://twitter.com/arkark_/status/1761943059040989581"
 normalized_url: "https://twitter.com/arkark_/status/1761943059040989581"
 domain: "twitter.com"
 favicon: "/images/favicons/twitter-com-97bc457e414c43fc9d9faa407106ec6d.png"
-categories: ["CTF", "notion-migration"]
+categories: ["CTF"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:32:41.768Z"

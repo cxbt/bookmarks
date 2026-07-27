@@ -6,7 +6,7 @@ source_url: "https://bughunters.google.com/blog/6037890662793216/enabling-truste
 normalized_url: "https://bughunters.google.com/blog/6037890662793216/enabling-trusted-types-in-a-complex-web-application-a-case-study-of-appsheet"
 domain: "bughunters.google.com"
 favicon: "/images/favicons/bughunters-google-com-bbb9bda279d24d0e8c56562aa5dc633a.png"
-categories: ["Web", "notion-migration"]
+categories: ["Web"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:33:20.922Z"

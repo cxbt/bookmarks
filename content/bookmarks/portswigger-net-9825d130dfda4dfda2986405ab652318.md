@@ -6,7 +6,7 @@ source_url: "https://portswigger.net/web-security/cross-site-scripting/contexts/
 normalized_url: "https://portswigger.net/web-security/cross-site-scripting/contexts/lab-html-context-with-most-tags-and-attributes-blocked"
 domain: "portswigger.net"
 favicon: "/images/favicons/portswigger-net-9825d130dfda4dfda2986405ab652318.png"
-categories: ["Web", "notion-migration"]
+categories: ["Web"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:26:20.911Z"

@@ -6,7 +6,7 @@ source_url: "https://securitylab.github.com/advisories/GHSL-2023-235_GHSL-2023-2
 normalized_url: "https://securitylab.github.com/advisories/GHSL-2023-235_GHSL-2023-237_Open_Metadata"
 domain: "securitylab.github.com"
 favicon: "/images/favicons/securitylab-github-com-1cdd99456a1b4247a1a62d3b2069e955.png"
-categories: ["CVE", "Web", "notion-migration"]
+categories: ["CVE", "Web"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:32:36.674Z"

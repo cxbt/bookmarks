@@ -6,7 +6,7 @@ source_url: "https://openai.com/index/introducing-superalignment/"
 normalized_url: "https://openai.com/index/introducing-superalignment"
 domain: "openai.com"
 favicon: "/images/favicons/openai-com-9ee645904aa74b73bfab961b5c22d690.png"
-categories: ["AI", "notion-migration"]
+categories: ["AI"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:33:35.429Z"

@@ -6,7 +6,7 @@ source_url: "https://blog.projectdiscovery.io/secret-token-scanning-with-nuclei/
 normalized_url: "https://blog.projectdiscovery.io/secret-token-scanning-with-nuclei"
 domain: "blog.projectdiscovery.io"
 favicon: "/images/favicons/blog-projectdiscovery-io-639bbf27068c4facbd6d8a3f5dd43df5.png"
-categories: ["Scan", "Web", "notion-migration"]
+categories: ["Scan", "Web"]
 read: ""
 nominate: "🙅🏻"
 created_at: "2026-07-23T07:31:57.095Z"

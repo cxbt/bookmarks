@@ -6,7 +6,7 @@ source_url: "https://blog.projectdiscovery.io/hacking-apple-with-sql-injection/"
 normalized_url: "https://blog.projectdiscovery.io/hacking-apple-with-sql-injection"
 domain: "blog.projectdiscovery.io"
 favicon: "/images/favicons/blog-projectdiscovery-io-36885cc130a440108369b13338be2679.png"
-categories: ["Web", "notion-migration"]
+categories: ["Web"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:32:26.949Z"

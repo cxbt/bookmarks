@@ -6,7 +6,7 @@ source_url: "https://blog.lexfo.fr/lightyear-file-dump.html"
 normalized_url: "https://blog.lexfo.fr/lightyear-file-dump.html"
 domain: "blog.lexfo.fr"
 favicon: "/images/favicons/blog-lexfo-fr-bf15652323a84a04984ed7afb24dfa0a.png"
-categories: ["Web", "notion-migration"]
+categories: ["Web"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:37:14.480Z"

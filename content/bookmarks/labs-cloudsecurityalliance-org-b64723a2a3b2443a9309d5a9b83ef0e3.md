@@ -6,7 +6,7 @@ source_url: "https://labs.cloudsecurityalliance.org/mythos-ciso"
 normalized_url: "https://labs.cloudsecurityalliance.org/mythos-ciso"
 domain: "labs.cloudsecurityalliance.org"
 favicon: "/images/favicons/labs-cloudsecurityalliance-org-b64723a2a3b2443a9309d5a9b83ef0e3.png"
-categories: ["AI", "Bughunt", "notion-migration"]
+categories: ["AI", "Bughunt"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:40:49.454Z"

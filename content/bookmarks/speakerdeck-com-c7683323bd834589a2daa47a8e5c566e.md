@@ -6,7 +6,7 @@ source_url: "https://speakerdeck.com/pwntester/attacking-net-serialization"
 normalized_url: "https://speakerdeck.com/pwntester/attacking-net-serialization"
 domain: "speakerdeck.com"
 favicon: "/images/favicons/speakerdeck-com-c7683323bd834589a2daa47a8e5c566e.png"
-categories: ["notion-migration"]
+categories: []
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:31:27.556Z"

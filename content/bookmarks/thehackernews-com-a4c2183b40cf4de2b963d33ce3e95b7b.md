@@ -6,7 +6,7 @@ source_url: "https://thehackernews.com/2023/03/openai-reveals-redis-bug-behind-c
 normalized_url: "https://thehackernews.com/2023/03/openai-reveals-redis-bug-behind-chatgpt.html?m=1"
 domain: "thehackernews.com"
 favicon: "/images/favicons/thehackernews-com-a4c2183b40cf4de2b963d33ce3e95b7b.png"
-categories: ["notion-migration"]
+categories: []
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:31:02.712Z"

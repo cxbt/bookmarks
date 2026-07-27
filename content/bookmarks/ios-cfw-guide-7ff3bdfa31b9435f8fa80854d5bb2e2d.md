@@ -6,7 +6,7 @@ source_url: "https://ios.cfw.guide/get-started/"
 normalized_url: "https://ios.cfw.guide/get-started"
 domain: "ios.cfw.guide"
 favicon: ""
-categories: ["Pentest", "notion-migration"]
+categories: ["Pentest"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:34:19.987Z"

@@ -6,7 +6,7 @@ source_url: "https://fireshellsecurity.team/sekaictf-frog-waf-and-chunky/#challe
 normalized_url: "https://fireshellsecurity.team/sekaictf-frog-waf-and-chunky"
 domain: "fireshellsecurity.team"
 favicon: "/images/favicons/fireshellsecurity-team-bfc1dfee36ab4e09a1e79cfb72087f6f.png"
-categories: ["notion-migration"]
+categories: []
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:29:57.697Z"

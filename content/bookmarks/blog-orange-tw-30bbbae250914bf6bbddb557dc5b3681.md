@@ -6,7 +6,7 @@ source_url: "https://blog.orange.tw/posts/2021-08-proxylogon-a-new-attack-surfac
 normalized_url: "https://blog.orange.tw/posts/2021-08-proxylogon-a-new-attack-surface-on-ms-exchange-part-1"
 domain: "blog.orange.tw"
 favicon: "/images/favicons/blog-orange-tw-30bbbae250914bf6bbddb557dc5b3681.png"
-categories: ["Bughunt", "Web", "notion-migration"]
+categories: ["Bughunt", "Web"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:41:19.294Z"

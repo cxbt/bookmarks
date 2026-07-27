@@ -6,7 +6,7 @@ source_url: "https://thottysploity.github.io/posts/cve-2024-53375/"
 normalized_url: "https://thottysploity.github.io/posts/cve-2024-53375"
 domain: "thottysploity.github.io"
 favicon: "/images/favicons/thottysploity-github-io-38c6b54363484eeab015c7d4673ff4a1.png"
-categories: ["CVE", "System", "notion-migration"]
+categories: ["CVE", "System"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:35:50.219Z"

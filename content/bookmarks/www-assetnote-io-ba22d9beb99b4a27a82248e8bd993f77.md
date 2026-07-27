@@ -6,7 +6,7 @@ source_url: "https://www.assetnote.io/resources/research/how-an-obscure-php-foot
 normalized_url: "https://www.assetnote.io/resources/research/how-an-obscure-php-footgun-led-to-rce-in-craft-cms"
 domain: "www.assetnote.io"
 favicon: "/images/favicons/www-assetnote-io-ba22d9beb99b4a27a82248e8bd993f77.png"
-categories: ["CVE", "Web", "notion-migration"]
+categories: ["CVE", "Web"]
 read: ""
 nominate: ""
 created_at: "2026-07-23T07:35:45.001Z"
