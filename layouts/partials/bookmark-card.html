@@ -23,6 +23,7 @@
   data-categories="{{ $categories | lower }}"
   data-created="{{ $created }}"
   data-external-url="{{ $url }}"
+  data-search-text="{{ printf "%s %s %s %s" .Title $domain $description $url | plainify }}"
   tabindex="0"
   role="link">
   <a class="bookmark-card__media" href="{{ $url }}" rel="noopener noreferrer" target="_blank" aria-label="{{ .Title }}">
@@ -51,7 +52,7 @@
       <div class="bookmark-card__property bookmark-card__property--categories">
         {{ with .Params.categories }}
           {{ range . }}
-            <span class="tag">{{ . }}</span>
+            <button type="button" class="tag" data-category-filter="{{ . | lower }}">{{ . }}</button>
           {{ end }}
         {{ else }}
           <span class="property-empty">No category</span>

@@ -50,12 +50,13 @@ if (searchInput && bookmarkList) {
       bookmarkList.appendChild(card);
       const categories = card.getAttribute("data-categories") || "";
       const haystack = [
-        card.getAttribute("data-title"),
-        card.getAttribute("data-domain"),
-        categories
+        card.getAttribute("data-search-text"),
+        card.getAttribute("data-external-url"),
+        card.textContent
       ].join(" ").toLowerCase();
       const matchedSearch = !query || haystack.includes(query);
-      const matchedCategory = !activeCategory || categories.split(" ").includes(activeCategory);
+      const categorySet = categories.split(/\s+/).filter(Boolean);
+      const matchedCategory = !activeCategory || categorySet.includes(activeCategory);
       const matched = matchedSearch && matchedCategory;
 
       card.hidden = !matched;
