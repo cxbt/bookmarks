@@ -228,8 +228,10 @@ select {
   padding: 1px 7px;
   border: 0;
   border-radius: 4px;
-  background: var(--gray-bg);
-  color: #494846;
+  --tag-bg: var(--gray-bg);
+  --tag-text: #494846;
+  background: var(--tag-bg);
+  color: var(--tag-text);
   font-size: 12px;
   line-height: 1.25;
   font-weight: 500;
@@ -240,20 +242,35 @@ button.tag {
   cursor: pointer;
 }
 
-.tag:nth-child(4n + 1) { background: var(--blue-bg); }
-.tag:nth-child(4n + 2) { background: var(--pink-bg); }
-.tag:nth-child(4n + 3) { background: var(--orange-bg); }
+.tag[data-category-filter="ai"] { --tag-bg: #f4dfeb; --tag-text: #69465a; }
+.tag[data-category-filter="blackhat"] { --tag-bg: #d3e5ef; --tag-text: #254e63; }
+.tag[data-category-filter="bughunt"] { --tag-bg: #fadec9; --tag-text: #6f4b2f; }
+.tag[data-category-filter="cloud"] { --tag-bg: #e7f3f8; --tag-text: #2d5f73; }
+.tag[data-category-filter="crypto"] { --tag-bg: #fdecc8; --tag-text: #73510d; }
+.tag[data-category-filter="cs"] { --tag-bg: #eeeeec; --tag-text: #4f4d49; }
+.tag[data-category-filter="ctf"] { --tag-bg: #f7e7b8; --tag-text: #6b5622; }
+.tag[data-category-filter="cve"] { --tag-bg: #ffe2dd; --tag-text: #7a342e; }
+.tag[data-category-filter="dev"] { --tag-bg: #e9e9e7; --tag-text: #4d4b47; }
+.tag[data-category-filter="embedded"] { --tag-bg: #f3dfcd; --tag-text: #704a30; }
+.tag[data-category-filter="human"] { --tag-bg: #f1ddf3; --tag-text: #65476d; }
+.tag[data-category-filter="life"] { --tag-bg: #dbeddb; --tag-text: #365f45; }
+.tag[data-category-filter="methodology"] { --tag-bg: #f4dfeb; --tag-text: #6d4358; }
+.tag[data-category-filter="pentest"] { --tag-bg: #e8deee; --tag-text: #59456b; }
+.tag[data-category-filter="scan"] { --tag-bg: #dbeaf3; --tag-text: #2c5870; }
+.tag[data-category-filter="system"] { --tag-bg: #e6deed; --tag-text: #5a4968; }
+.tag[data-category-filter="ti"] { --tag-bg: #d6e7f6; --tag-text: #2c5270; }
+.tag[data-category-filter="web"] { --tag-bg: #eeeeec; --tag-text: #4f4d49; }
 .tag:hover,
 .tag:focus-visible {
   filter: brightness(0.97);
-  color: var(--text);
+  color: var(--tag-text);
   outline: none;
 }
 
 .tag.active {
-  box-shadow: inset 0 0 0 1px rgba(51, 126, 169, 0.36);
+  box-shadow: inset 0 0 0 1px currentColor;
   filter: brightness(0.96) saturate(1.08);
-  color: var(--text);
+  color: var(--tag-text);
 }
 
 .tag.inactive {
