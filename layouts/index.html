@@ -1,5 +1,11 @@
 {{ define "main" }}
 {{ $bookmarks := where site.RegularPages "Section" "bookmarks" }}
+{{ $categories := slice }}
+{{ range $bookmarks }}
+  {{ range .Params.categories }}
+    {{ $categories = $categories | append . }}
+  {{ end }}
+{{ end }}
 <div class="page-cover">
   <img src="{{ "/images/cover/books-NIJuEQw0RKg.jpg" | relURL }}" alt="">
 </div>
@@ -30,7 +36,7 @@
 
     <div class="category-row" data-category-filters>
       <button type="button" class="tag active" data-category-filter="">All</button>
-      {{ range $name, $taxonomy := site.Taxonomies.categories }}
+      {{ range $name := sort (uniq $categories) }}
         <button type="button" class="tag" data-category-filter="{{ $name | lower }}">{{ $name }}</button>
       {{ end }}
     </div>
