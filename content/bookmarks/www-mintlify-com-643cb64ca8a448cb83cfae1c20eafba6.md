@@ -7,8 +7,6 @@ normalized_url: "https://www.mintlify.com/VineeTagarwaL-code/claude-code/concept
 domain: "www.mintlify.com"
 favicon: "/images/favicons/www-mintlify-com-643cb64ca8a448cb83cfae1c20eafba6.png"
 categories: ["AI"]
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:40:39.118Z"
 updated_at: "2026-07-23T08:30:06.709Z"
 backup_status: "succeeded"

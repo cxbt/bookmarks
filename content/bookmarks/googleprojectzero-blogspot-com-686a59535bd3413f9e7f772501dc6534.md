@@ -7,8 +7,6 @@ normalized_url: "https://googleprojectzero.blogspot.com/2024/06/project-naptime.
 domain: "googleprojectzero.blogspot.com"
 favicon: "/images/favicons/googleprojectzero-blogspot-com-686a59535bd3413f9e7f772501dc6534.png"
 categories: ["AI"]
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:34:35.054Z"
 updated_at: "2026-07-23T08:08:41.688Z"
 backup_status: "succeeded"

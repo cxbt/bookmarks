@@ -7,8 +7,6 @@ normalized_url: "https://developer.mozilla.org/en-US/docs/Web/API/HTML_Sanitizer
 domain: "developer.mozilla.org"
 favicon: "/images/favicons/developer-mozilla-org-de526a0a54d741f89c94d5493b8f4008.png"
 categories: []
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:30:57.625Z"
 updated_at: "2026-07-23T07:55:49.915Z"
 backup_status: "succeeded"

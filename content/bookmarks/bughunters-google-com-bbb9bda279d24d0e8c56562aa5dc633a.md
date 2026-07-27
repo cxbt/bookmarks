@@ -7,8 +7,6 @@ normalized_url: "https://bughunters.google.com/blog/6037890662793216/enabling-tr
 domain: "bughunters.google.com"
 favicon: "/images/favicons/bughunters-google-com-bbb9bda279d24d0e8c56562aa5dc633a.png"
 categories: ["Web"]
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:33:20.922Z"
 updated_at: "2026-07-23T08:03:46.124Z"
 backup_status: "succeeded"

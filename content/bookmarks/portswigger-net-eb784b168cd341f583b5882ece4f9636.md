@@ -7,8 +7,6 @@ normalized_url: "https://portswigger.net/research/exploiting-xss-in-hidden-input
 domain: "portswigger.net"
 favicon: "/images/favicons/portswigger-net-eb784b168cd341f583b5882ece4f9636.png"
 categories: ["Web"]
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:26:36.409Z"
 updated_at: "2026-07-23T07:45:48.527Z"
 backup_status: "succeeded"

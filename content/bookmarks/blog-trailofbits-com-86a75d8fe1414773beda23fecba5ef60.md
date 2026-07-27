@@ -7,8 +7,6 @@ normalized_url: "https://blog.trailofbits.com/2019/07/08/fuck-rsa"
 domain: "blog.trailofbits.com"
 favicon: "/images/favicons/blog-trailofbits-com-86a75d8fe1414773beda23fecba5ef60.png"
 categories: ["Crypto"]
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:37:04.539Z"
 updated_at: "2026-07-23T08:16:44.050Z"
 backup_status: "succeeded"

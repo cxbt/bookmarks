@@ -7,8 +7,6 @@ normalized_url: "https://www.sonarsource.com/blog/pitfalls-of-desanitization-lea
 domain: "www.sonarsource.com"
 favicon: "/images/favicons/www-sonarsource-com-268eef38968b44e1b48d201877e31aea.png"
 categories: ["CVE", "Web"]
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:32:51.527Z"
 updated_at: "2026-07-23T08:02:10.412Z"
 backup_status: "succeeded"

@@ -7,8 +7,6 @@ normalized_url: "https://blog.orange.tw/posts/2021-08-proxylogon-a-new-attack-su
 domain: "blog.orange.tw"
 favicon: "/images/favicons/blog-orange-tw-30bbbae250914bf6bbddb557dc5b3681.png"
 categories: ["Bughunt", "Web"]
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:41:19.294Z"
 updated_at: "2026-07-23T08:32:08.868Z"
 backup_status: "succeeded"

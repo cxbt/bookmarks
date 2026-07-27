@@ -7,8 +7,6 @@ normalized_url: "https://flatt.tech/research/posts/remote-command-execution-in-g
 domain: "flatt.tech"
 favicon: "/images/favicons/flatt-tech-1b7a9cc2dbe54c4eb04cd9504fe4abbc.png"
 categories: ["Bughunt", "Web"]
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:40:13.692Z"
 updated_at: "2026-07-23T08:28:31.795Z"
 backup_status: "succeeded"

@@ -7,8 +7,6 @@ normalized_url: "https://www.synacktiv.com/en/publications/finding-a-pop-chain-o
 domain: "www.synacktiv.com"
 favicon: "/images/favicons/www-synacktiv-com-d73c1a2dd8474a24b8c87e44a60dbfcb.png"
 categories: []
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:29:38.220Z"
 updated_at: "2026-07-23T07:51:35.125Z"
 backup_status: "succeeded"

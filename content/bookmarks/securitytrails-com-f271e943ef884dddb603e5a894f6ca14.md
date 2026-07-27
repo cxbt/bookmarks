@@ -7,8 +7,6 @@ normalized_url: "https://securitytrails.com/blog/jarm-fingerprinting-tool"
 domain: "securitytrails.com"
 favicon: "/images/favicons/securitytrails-com-f271e943ef884dddb603e5a894f6ca14.png"
 categories: []
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:28:29.076Z"
 updated_at: "2026-07-23T07:47:54.887Z"
 backup_status: "succeeded"

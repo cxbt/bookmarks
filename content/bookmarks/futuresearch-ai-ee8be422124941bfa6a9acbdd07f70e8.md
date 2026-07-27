@@ -7,8 +7,6 @@ normalized_url: "https://futuresearch.ai/blog/no-prompt-injection-required"
 domain: "futuresearch.ai"
 favicon: "/images/favicons/futuresearch-ai-ee8be422124941bfa6a9acbdd07f70e8.png"
 categories: ["TI"]
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:40:03.687Z"
 updated_at: "2026-07-23T08:28:03.266Z"
 backup_status: "succeeded"

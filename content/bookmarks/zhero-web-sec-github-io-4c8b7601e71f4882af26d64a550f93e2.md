@@ -7,8 +7,6 @@ normalized_url: "https://zhero-web-sec.github.io/research-and-things/nextjs-cach
 domain: "zhero-web-sec.github.io"
 favicon: ""
 categories: ["CVE", "Web"]
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:36:49.628Z"
 updated_at: "2026-07-23T08:15:51.894Z"
 backup_status: "succeeded"

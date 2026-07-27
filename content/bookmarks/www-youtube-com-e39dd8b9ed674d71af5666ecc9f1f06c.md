@@ -7,8 +7,6 @@ normalized_url: "https://www.youtube.com/watch?v=v45_tkKCJ54"
 domain: "www.youtube.com"
 favicon: "/images/favicons/www-youtube-com-e39dd8b9ed674d71af5666ecc9f1f06c.png"
 categories: []
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:30:27.949Z"
 updated_at: "2026-07-23T07:54:13.527Z"
 backup_status: "succeeded"

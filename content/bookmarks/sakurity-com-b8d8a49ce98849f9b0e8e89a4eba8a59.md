@@ -7,8 +7,6 @@ normalized_url: "https://sakurity.com/blog/2015/03/15/authy_bypass.html"
 domain: "sakurity.com"
 favicon: "/images/favicons/sakurity-com-b8d8a49ce98849f9b0e8e89a4eba8a59.png"
 categories: []
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:28:04.293Z"
 updated_at: "2026-07-23T07:46:23.037Z"
 backup_status: "succeeded"

@@ -7,8 +7,6 @@ normalized_url: "https://httpoxy.org"
 domain: "httpoxy.org"
 favicon: "/images/favicons/httpoxy-org-9ea5ac0c5f7b428995abf470471eb496.png"
 categories: []
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:30:42.670Z"
 updated_at: "2026-07-23T07:55:04.629Z"
 backup_status: "succeeded"

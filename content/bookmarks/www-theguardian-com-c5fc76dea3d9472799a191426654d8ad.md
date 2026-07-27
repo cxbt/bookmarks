@@ -7,8 +7,6 @@ normalized_url: "https://www.theguardian.com/world/interactive/2013/oct/04/tor-s
 domain: "www.theguardian.com"
 favicon: "/images/favicons/www-theguardian-com-c5fc76dea3d9472799a191426654d8ad.png"
 categories: []
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:30:08.003Z"
 updated_at: "2026-07-23T07:53:16.834Z"
 backup_status: "succeeded"

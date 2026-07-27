@@ -7,8 +7,6 @@ normalized_url: "https://loworbitsecurity.com/radar/radar16"
 domain: "loworbitsecurity.com"
 favicon: "/images/favicons/loworbitsecurity-com-cae8ab3670c34443908edc20c4f43186.png"
 categories: ["Scan"]
-read: "✅"
-nominate: ""
 created_at: "2026-07-23T07:38:53.483Z"
 updated_at: "2026-07-23T08:24:15.270Z"
 backup_status: "succeeded"

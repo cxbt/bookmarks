@@ -7,8 +7,6 @@ normalized_url: "https://ios.cfw.guide/get-started"
 domain: "ios.cfw.guide"
 favicon: ""
 categories: ["Pentest"]
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:34:19.987Z"
 updated_at: "2026-07-23T08:07:30.380Z"
 backup_status: "succeeded"

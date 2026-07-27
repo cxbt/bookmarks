@@ -7,8 +7,6 @@ normalized_url: "https://github.com/strellic/my-ctf-challenges"
 domain: "github.com"
 favicon: "/images/favicons/github-com-b1363f4e8c124cc2895a9bbc168bfce4.png"
 categories: ["CTF"]
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:35:05.009Z"
 updated_at: "2026-07-23T08:10:21.167Z"
 backup_status: "succeeded"

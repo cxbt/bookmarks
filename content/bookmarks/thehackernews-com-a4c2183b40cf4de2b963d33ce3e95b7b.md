@@ -7,8 +7,6 @@ normalized_url: "https://thehackernews.com/2023/03/openai-reveals-redis-bug-behi
 domain: "thehackernews.com"
 favicon: "/images/favicons/thehackernews-com-a4c2183b40cf4de2b963d33ce3e95b7b.png"
 categories: []
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:31:02.712Z"
 updated_at: "2026-07-23T07:56:03.987Z"
 backup_status: "succeeded"

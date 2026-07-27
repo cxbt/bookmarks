@@ -7,8 +7,6 @@ normalized_url: "https://www.bentasker.co.uk/posts/documentation/linux/310-build
 domain: "www.bentasker.co.uk"
 favicon: "/images/favicons/www-bentasker-co-uk-adb971598ad24a57906df6a1de2fdb59.png"
 categories: []
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:30:22.879Z"
 updated_at: "2026-07-23T07:53:57.386Z"
 backup_status: "succeeded"

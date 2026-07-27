@@ -42,6 +42,13 @@
     </div>
   </div>
 
+  <div class="bookmark-list-header" data-bookmark-list-header hidden>
+    <div>Name</div>
+    <div>Category</div>
+    <div>Description</div>
+    <div>Created time</div>
+  </div>
+
   <div class="bookmark-grid" data-bookmark-list>
     {{ if $bookmarks }}
       {{ range $bookmarks.ByParam "created_at" | collections.Reverse }}{{ partial "bookmark-card.html" . }}{{ end }}

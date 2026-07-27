@@ -7,8 +7,6 @@ normalized_url: "https://github.com/h4r5h1t/webcopilot"
 domain: "github.com"
 favicon: "/images/favicons/github-com-dc912a482ebe4e53804424fa673aa94e.png"
 categories: ["Scan", "Web"]
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:33:30.618Z"
 updated_at: "2026-07-23T08:04:34.477Z"
 backup_status: "succeeded"

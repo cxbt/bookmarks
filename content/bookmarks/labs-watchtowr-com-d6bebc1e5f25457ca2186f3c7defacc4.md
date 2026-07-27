@@ -7,8 +7,6 @@ normalized_url: "https://labs.watchtowr.com/you-already-have-our-personal-data-t
 domain: "labs.watchtowr.com"
 favicon: "/images/favicons/labs-watchtowr-com-d6bebc1e5f25457ca2186f3c7defacc4.png"
 categories: ["CVE", "Web"]
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:38:28.861Z"
 updated_at: "2026-07-23T08:22:34.355Z"
 backup_status: "succeeded"

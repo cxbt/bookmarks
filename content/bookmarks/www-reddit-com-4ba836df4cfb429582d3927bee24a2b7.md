@@ -7,8 +7,6 @@ normalized_url: "https://www.reddit.com/r/websecurityresearch/comments/1kqk5nn/u
 domain: "www.reddit.com"
 favicon: "/images/favicons/www-reddit-com-4ba836df4cfb429582d3927bee24a2b7.png"
 categories: ["Web"]
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:38:04.265Z"
 updated_at: "2026-07-23T08:21:12.096Z"
 backup_status: "succeeded"

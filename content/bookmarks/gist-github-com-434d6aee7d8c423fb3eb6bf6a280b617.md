@@ -7,8 +7,6 @@ normalized_url: "https://gist.github.com/parrot409/09688d0bb81acbe8cd1a10cfdaa59
 domain: "gist.github.com"
 favicon: "/images/favicons/gist-github-com-434d6aee7d8c423fb3eb6bf6a280b617.png"
 categories: []
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:28:43.869Z"
 updated_at: "2026-07-23T07:48:45.841Z"
 backup_status: "succeeded"

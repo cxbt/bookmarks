@@ -7,8 +7,6 @@ normalized_url: "https://trufflesecurity.com/blog/millions-at-risk-due-to-google
 domain: "trufflesecurity.com"
 favicon: "/images/favicons/trufflesecurity-com-c74f3343dbe2472696ae0c670c463100.png"
 categories: ["Scan", "Web"]
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:36:34.741Z"
 updated_at: "2026-07-23T08:15:04.205Z"
 backup_status: "succeeded"

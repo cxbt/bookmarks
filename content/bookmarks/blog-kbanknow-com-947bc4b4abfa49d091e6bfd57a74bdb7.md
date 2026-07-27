@@ -7,8 +7,6 @@ normalized_url: "https://blog.kbanknow.com/106"
 domain: "blog.kbanknow.com"
 favicon: "/images/favicons/blog-kbanknow-com-947bc4b4abfa49d091e6bfd57a74bdb7.png"
 categories: ["AI", "Dev"]
-read: "✅"
-nominate: ""
 created_at: "2026-07-23T07:38:43.533Z"
 updated_at: "2026-07-23T08:23:46.928Z"
 backup_status: "succeeded"

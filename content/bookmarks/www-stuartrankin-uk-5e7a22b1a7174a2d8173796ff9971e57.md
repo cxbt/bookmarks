@@ -7,8 +7,6 @@ normalized_url: "https://www.stuartrankin.uk/blog/ipv4obfuscation"
 domain: "www.stuartrankin.uk"
 favicon: "/images/favicons/www-stuartrankin-uk-5e7a22b1a7174a2d8173796ff9971e57.png"
 categories: ["System"]
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:39:58.476Z"
 updated_at: "2026-07-23T08:27:48.785Z"
 backup_status: "succeeded"

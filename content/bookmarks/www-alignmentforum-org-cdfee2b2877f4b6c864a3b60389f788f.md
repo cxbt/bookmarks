@@ -7,8 +7,6 @@ normalized_url: "https://www.alignmentforum.org/posts/vERGLBpDE8m5mpT6t/autonomo
 domain: "www.alignmentforum.org"
 favicon: ""
 categories: ["AI"]
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:33:45.383Z"
 updated_at: "2026-07-23T08:05:16.058Z"
 backup_status: "succeeded"

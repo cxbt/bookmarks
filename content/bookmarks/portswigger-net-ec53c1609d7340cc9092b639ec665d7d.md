@@ -7,8 +7,6 @@ normalized_url: "https://portswigger.net/research/bypassing-dompurify-again-with
 domain: "portswigger.net"
 favicon: "/images/favicons/portswigger-net-ec53c1609d7340cc9092b639ec665d7d.png"
 categories: []
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:30:47.727Z"
 updated_at: "2026-07-23T07:55:19.199Z"
 backup_status: "succeeded"

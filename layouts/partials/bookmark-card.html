@@ -1,6 +1,8 @@
 {{ $url := .Params.source_url | default .Params.normalized_url }}
 {{ $categories := delimit (.Params.categories | default slice) " " }}
 {{ $description := .Plain | plainify | strings.TrimSpace }}
+{{ $description = htmlUnescape $description }}
+{{ $hasDescription := ne $description "" }}
 {{ $created := 0 }}
 {{ with .Params.created_at }}{{ $created = (time .).Unix }}{{ end }}
 {{ $createdLabel := "" }}
@@ -43,20 +45,17 @@
       <span>{{ $domain }}</span>
     </div>
 
-    <p class="bookmark-card__desc">{{ if $description }}{{ $description | truncate 132 }}{{ else }}{{ $url }}{{ end }}</p>
+    <p class="bookmark-card__desc{{ if not $hasDescription }} bookmark-card__desc--url{{ end }}">{{ if $hasDescription }}{{ $description | truncate 132 }}{{ else }}{{ $url }}{{ end }}</p>
 
     <div class="bookmark-card__properties">
       <div class="bookmark-card__property bookmark-card__property--categories">
         {{ with .Params.categories }}
-          {{ range first 4 . }}
+          {{ range . }}
             <span class="tag">{{ . }}</span>
           {{ end }}
         {{ else }}
           <span class="property-empty">No category</span>
         {{ end }}
-      </div>
-      <div class="bookmark-card__property bookmark-card__property--status">
-        {{ partial "status-pills.html" . }}
       </div>
       <div class="bookmark-card__property bookmark-card__property--created">{{ $createdLabel }}</div>
     </div>

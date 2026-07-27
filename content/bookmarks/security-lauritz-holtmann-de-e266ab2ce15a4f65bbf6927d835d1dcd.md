@@ -7,8 +7,6 @@ normalized_url: "https://security.lauritz-holtmann.de/post/sso-security-redirect
 domain: "security.lauritz-holtmann.de"
 favicon: "/images/favicons/security-lauritz-holtmann-de-e266ab2ce15a4f65bbf6927d835d1dcd.png"
 categories: ["CVE", "Web"]
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:33:11.159Z"
 updated_at: "2026-07-23T08:03:12.285Z"
 backup_status: "succeeded"

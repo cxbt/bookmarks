@@ -2,6 +2,7 @@ const VIEW_STORAGE_KEY = "openbookmark:view";
 const searchInput = document.querySelector("[data-bookmark-search]");
 const bookmarkList = document.querySelector("[data-bookmark-list]");
 const countNode = document.querySelector("[data-bookmark-count]");
+const listHeader = document.querySelector("[data-bookmark-list-header]");
 const sortSelect = document.querySelector("[data-bookmark-sort]");
 const categoryButtons = Array.from(document.querySelectorAll("[data-category-filter]"));
 const viewButtons = Array.from(document.querySelectorAll("[data-view-mode]"));
@@ -64,6 +65,10 @@ if (searchInput && bookmarkList) {
     }
 
     bookmarkList.classList.toggle("bookmark-grid--list", viewMode === "list");
+
+    if (listHeader) {
+      listHeader.hidden = viewMode !== "list";
+    }
 
     for (const button of viewButtons) {
       const active = button.dataset.viewMode === viewMode;

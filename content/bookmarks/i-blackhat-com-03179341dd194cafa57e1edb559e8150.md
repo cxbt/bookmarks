@@ -7,8 +7,6 @@ normalized_url: "https://i.blackhat.com/BH-EU-25/eu-25-Ding-Token-Injection-Cras
 domain: "i.blackhat.com"
 favicon: ""
 categories: ["AI", "Methodology"]
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:41:34.011Z"
 updated_at: "2026-07-23T08:35:01.780Z"
 backup_status: "failed"

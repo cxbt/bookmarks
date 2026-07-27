@@ -7,8 +7,6 @@ normalized_url: "https://bishopfox.com/blog/unredacter-tool-never-pixelation"
 domain: "bishopfox.com"
 favicon: "/images/favicons/bishopfox-com-90bd3ed9637d471ba9b3c7f8032a3e86.png"
 categories: ["Crypto"]
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:37:24.648Z"
 updated_at: "2026-07-23T08:18:19.208Z"
 backup_status: "succeeded"

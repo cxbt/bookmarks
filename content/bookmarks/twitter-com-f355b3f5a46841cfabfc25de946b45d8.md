@@ -7,8 +7,6 @@ normalized_url: "https://twitter.com/aszx87410/status/1756941975201468774"
 domain: "twitter.com"
 favicon: "/images/favicons/twitter-com-f355b3f5a46841cfabfc25de946b45d8.png"
 categories: ["CTF"]
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:32:46.581Z"
 updated_at: "2026-07-23T08:01:47.387Z"
 backup_status: "succeeded"

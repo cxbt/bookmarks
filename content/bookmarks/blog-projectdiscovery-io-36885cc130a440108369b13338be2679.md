@@ -7,8 +7,6 @@ normalized_url: "https://blog.projectdiscovery.io/hacking-apple-with-sql-injecti
 domain: "blog.projectdiscovery.io"
 favicon: "/images/favicons/blog-projectdiscovery-io-36885cc130a440108369b13338be2679.png"
 categories: ["Web"]
-read: ""
-nominate: ""
 created_at: "2026-07-23T07:32:26.949Z"
 updated_at: "2026-07-23T08:00:44.955Z"
 backup_status: "succeeded"
