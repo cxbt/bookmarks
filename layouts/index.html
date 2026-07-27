@@ -35,7 +35,6 @@
     </div>
 
     <div class="category-row" data-category-filters>
-      <button type="button" class="tag active" data-category-filter="">All</button>
       {{ range $name := sort (uniq $categories) }}
         <button type="button" class="tag" data-category-filter="{{ $name | lower }}">{{ $name }}</button>
       {{ end }}

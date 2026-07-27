@@ -38,7 +38,7 @@ for (const card of document.querySelectorAll("[data-bookmark-card][data-external
 
 if (searchInput && bookmarkList) {
   const cards = Array.from(bookmarkList.querySelectorAll("[data-bookmark-card]"));
-  let activeCategory = "";
+  const activeCategories = new Set();
   let viewMode = readViewMode();
 
   const update = () => {
@@ -56,7 +56,7 @@ if (searchInput && bookmarkList) {
       ].join(" ").toLowerCase();
       const matchedSearch = !query || haystack.includes(query);
       const categorySet = categories.split(/\s+/).filter(Boolean);
-      const matchedCategory = !activeCategory || categorySet.includes(activeCategory);
+      const matchedCategory = activeCategories.size === 0 || categorySet.some((category) => activeCategories.has(category));
       const matched = matchedSearch && matchedCategory;
 
       card.hidden = !matched;
@@ -78,7 +78,12 @@ if (searchInput && bookmarkList) {
     }
 
     for (const button of categoryButtons) {
-      button.classList.toggle("active", (button.dataset.categoryFilter || "") === activeCategory);
+      const category = button.dataset.categoryFilter || "";
+      const active = activeCategories.has(category);
+      const inactive = activeCategories.size > 0 && !active;
+      button.classList.toggle("active", active);
+      button.classList.toggle("inactive", inactive);
+      button.setAttribute("aria-pressed", String(active));
     }
 
     if (countNode) {
@@ -91,7 +96,12 @@ if (searchInput && bookmarkList) {
 
   for (const button of categoryButtons) {
     button.addEventListener("click", () => {
-      activeCategory = button.dataset.categoryFilter || "";
+      const category = button.dataset.categoryFilter || "";
+      if (activeCategories.has(category)) {
+        activeCategories.delete(category);
+      } else {
+        activeCategories.add(category);
+      }
       update();
     });
   }
