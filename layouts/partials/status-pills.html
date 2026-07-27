@@ -5,15 +5,3 @@
 {{ with .Params.nominate }}
   <span class="status status--nominate">{{ . }}</span>
 {{ end }}
-
-{{ with .Params.backup_status }}
-  {{ if ne . "" }}
-    <span class="status status--backup-{{ . }}">Backup {{ . }}</span>
-  {{ end }}
-{{ end }}
-
-{{ with .Params.thumbnail_status }}
-  {{ if ne . "" }}
-    <span class="status status--thumbnail-{{ . }}">Image {{ . }}</span>
-  {{ end }}
-{{ end }}

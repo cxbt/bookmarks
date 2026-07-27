@@ -1,16 +1,32 @@
 {{ define "main" }}
 {{ $url := .Params.source_url | default .Params.normalized_url }}
+{{ $thumbnail := .Params.thumbnail | default "" }}
+{{ $hasThumbnail := false }}
+{{ if $thumbnail }}{{ $hasThumbnail = fileExists (printf "static/%s" (replaceRE "^/" "" $thumbnail)) }}{{ end }}
+{{ $favicon := .Params.favicon | default "" }}
+{{ $hasFavicon := false }}
+{{ if $favicon }}{{ $hasFavicon = fileExists (printf "static/%s" (replaceRE "^/" "" $favicon)) }}{{ end }}
+{{ $domain := .Params.domain | default "bookmark" }}
+{{ $initial := upper (substr $domain 0 1) }}
 <article class="page detail">
   <section class="detail-main">
-    {{ with .Params.thumbnail }}
-      <div class="detail-image">
-        <img src="{{ . | relURL }}" alt="">
-      </div>
-    {{ end }}
+    <div class="detail-image">
+      {{ if $hasThumbnail }}
+        <img src="{{ $thumbnail | relURL }}" alt="" data-fallback-image>
+      {{ else }}
+        <div class="bookmark-card__fallback detail-image__fallback" aria-hidden="true">
+          {{ if $hasFavicon }}
+            <img src="{{ $favicon | relURL }}" alt="">
+          {{ else }}
+            <span class="fallback-mark">{{ $initial }}</span>
+          {{ end }}
+        </div>
+      {{ end }}
+    </div>
     <div class="detail-content">
       <div class="detail-domain">
-        {{ with .Params.favicon }}<img src="{{ . }}" alt="">{{ end }}
-        <span>{{ .Params.domain }}</span>
+        {{ if $hasFavicon }}<img src="{{ $favicon | relURL }}" alt="">{{ else }}<span class="favicon-fallback" aria-hidden="true">{{ $initial }}</span>{{ end }}
+        <span>{{ $domain }}</span>
       </div>
       <h1>{{ .Title }}</h1>
       <div class="bookmark-meta">
@@ -27,7 +43,7 @@
 
     <div class="side-group">
       <div class="side-label">Domain</div>
-      <div class="side-value">{{ .Params.domain }}</div>
+      <div class="side-value">{{ $domain }}</div>
     </div>
 
     <div class="side-group">
@@ -61,16 +77,6 @@
         <div class="side-value">{{ (time .).Format "2006-01-02 15:04" }}</div>
       </div>
     {{ end }}
-
-    <div class="side-group">
-      <div class="side-label">Backup</div>
-      <div class="side-value">{{ .Params.backup_status | default "pending" }}</div>
-    </div>
-
-    <div class="side-group">
-      <div class="side-label">Thumbnail</div>
-      <div class="side-value">{{ .Params.thumbnail_status | default "pending" }}</div>
-    </div>
   </aside>
 </article>
 {{ end }}

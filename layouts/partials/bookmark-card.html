@@ -2,22 +2,32 @@
 {{ $categories := delimit (.Params.categories | default slice) " " }}
 {{ $created := 0 }}
 {{ with .Params.created_at }}{{ $created = (time .).Unix }}{{ end }}
+{{ $createdLabel := "" }}
+{{ with .Params.created_at }}{{ $createdLabel = (time .).Format "2006-01-02" }}{{ end }}
+{{ $thumbnail := .Params.thumbnail | default "" }}
+{{ $hasThumbnail := false }}
+{{ if $thumbnail }}{{ $hasThumbnail = fileExists (printf "static/%s" (replaceRE "^/" "" $thumbnail)) }}{{ end }}
+{{ $favicon := .Params.favicon | default "" }}
+{{ $hasFavicon := false }}
+{{ if $favicon }}{{ $hasFavicon = fileExists (printf "static/%s" (replaceRE "^/" "" $favicon)) }}{{ end }}
+{{ $domain := .Params.domain | default "bookmark" }}
+{{ $initial := upper (substr $domain 0 1) }}
 <article
   class="bookmark-card"
   data-bookmark-card
   data-title="{{ .Title }}"
-  data-domain="{{ .Params.domain }}"
+  data-domain="{{ $domain }}"
   data-categories="{{ $categories | lower }}"
   data-created="{{ $created }}">
   <a class="bookmark-card__media" href="{{ .RelPermalink }}" aria-label="{{ .Title }}">
-    {{ with .Params.thumbnail }}
-      <img src="{{ . | relURL }}" alt="">
+    {{ if $hasThumbnail }}
+      <img src="{{ $thumbnail | relURL }}" alt="" loading="lazy" data-fallback-image>
     {{ else }}
-      <div class="bookmark-card__fallback">
-        {{ with $.Params.favicon }}
-          <img src="{{ . }}" alt="">
+      <div class="bookmark-card__fallback" aria-hidden="true">
+        {{ if $hasFavicon }}
+          <img src="{{ $favicon | relURL }}" alt="">
         {{ else }}
-          <span class="brand__mark" aria-hidden="true">⌁</span>
+          <span class="fallback-mark">{{ $initial }}</span>
         {{ end }}
       </div>
     {{ end }}
@@ -25,8 +35,8 @@
 
   <div class="bookmark-card__body">
     <div class="bookmark-card__domain">
-      {{ with .Params.favicon }}<img src="{{ . }}" alt="">{{ end }}
-      <span>{{ .Params.domain }}</span>
+      {{ if $hasFavicon }}<img src="{{ $favicon | relURL }}" alt="" loading="lazy">{{ else }}<span class="favicon-fallback" aria-hidden="true">{{ $initial }}</span>{{ end }}
+      <span>{{ $domain }}</span>
     </div>
 
     <h2 class="bookmark-card__title">
@@ -35,21 +45,24 @@
 
     <p class="bookmark-card__desc">{{ .Plain | truncate 132 }}</p>
 
-    <div class="bookmark-meta">
-      {{ partial "status-pills.html" . }}
-    </div>
-
-    {{ with .Params.categories }}
-      <div class="bookmark-meta">
-        {{ range first 4 . }}
-          <a class="tag" href="{{ printf "/categories/%s/" (. | urlize) | relURL }}">{{ . }}</a>
+    <div class="bookmark-card__properties">
+      <div class="bookmark-card__property bookmark-card__property--categories">
+        {{ with .Params.categories }}
+          {{ range first 4 . }}
+            <a class="tag" href="{{ printf "/categories/%s/" (. | urlize) | relURL }}">{{ . }}</a>
+          {{ end }}
+        {{ else }}
+          <span class="property-empty">No category</span>
         {{ end }}
       </div>
-    {{ end }}
+      <div class="bookmark-card__property bookmark-card__property--status">
+        {{ partial "status-pills.html" . }}
+      </div>
+      <div class="bookmark-card__property bookmark-card__property--created">{{ $createdLabel }}</div>
+    </div>
 
     <div class="bookmark-card__footer">
-      <span>{{ with .Params.created_at }}{{ (time .).Format "2006-01-02" }}{{ end }}</span>
-      <a class="external-link" href="{{ $url }}" rel="noopener noreferrer" target="_blank">Open</a>
+      <a class="external-link" href="{{ $url }}" rel="noopener noreferrer" target="_blank">Open source</a>
     </div>
   </div>
 </article>

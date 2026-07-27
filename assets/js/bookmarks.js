@@ -1,3 +1,4 @@
+const VIEW_STORAGE_KEY = "openbookmark:view";
 const searchInput = document.querySelector("[data-bookmark-search]");
 const bookmarkList = document.querySelector("[data-bookmark-list]");
 const countNode = document.querySelector("[data-bookmark-count]");
@@ -5,10 +6,20 @@ const sortSelect = document.querySelector("[data-bookmark-sort]");
 const categoryButtons = Array.from(document.querySelectorAll("[data-category-filter]"));
 const viewButtons = Array.from(document.querySelectorAll("[data-view-mode]"));
 
+for (const image of document.querySelectorAll("[data-fallback-image]")) {
+  image.addEventListener("error", () => {
+    const fallback = document.createElement("div");
+    fallback.className = "bookmark-card__fallback";
+    fallback.setAttribute("aria-hidden", "true");
+    fallback.innerHTML = '<span class="fallback-mark">?</span>';
+    image.replaceWith(fallback);
+  }, { once: true });
+}
+
 if (searchInput && bookmarkList) {
   const cards = Array.from(bookmarkList.querySelectorAll("[data-bookmark-card]"));
   let activeCategory = "";
-  let viewMode = localStorage.getItem("openbookmark:view") || "grid";
+  let viewMode = readViewMode();
 
   const update = () => {
     const query = searchInput.value.trim().toLowerCase();
@@ -63,12 +74,29 @@ if (searchInput && bookmarkList) {
   for (const button of viewButtons) {
     button.addEventListener("click", () => {
       viewMode = button.dataset.viewMode || "grid";
-      localStorage.setItem("openbookmark:view", viewMode);
+      writeViewMode(viewMode);
       update();
     });
   }
 
   update();
+}
+
+function readViewMode() {
+  try {
+    const stored = localStorage.getItem(VIEW_STORAGE_KEY);
+    return stored === "list" || stored === "grid" ? stored : "grid";
+  } catch {
+    return "grid";
+  }
+}
+
+function writeViewMode(mode) {
+  try {
+    localStorage.setItem(VIEW_STORAGE_KEY, mode);
+  } catch {
+    // Storage can be unavailable in strict privacy contexts.
+  }
 }
 
 function sortCards(cards, mode) {

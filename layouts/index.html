@@ -1,25 +1,25 @@
 {{ define "main" }}
 {{ $bookmarks := where site.RegularPages "Section" "bookmarks" }}
-<section class="page">
-  <div class="page-head">
+<section class="page database-page">
+  <div class="page-head page-head--notion">
     <div>
-      <h1 class="page-title">Bookmarks</h1>
-      <p class="page-subtitle">Public archive</p>
+      <div class="page-kicker">Public bookmark database</div>
+      <h1 class="page-title"><span aria-hidden="true">📌</span> Bookmarks</h1>
+      <p class="page-subtitle">{{ site.BaseURL }}</p>
     </div>
     <span class="count-pill"><span data-bookmark-count>{{ len $bookmarks }}</span>&nbsp;items</span>
   </div>
 
   <div class="toolbar" data-bookmark-toolbar>
-    <div class="search">
-      <input type="search" placeholder="Search" aria-label="Search" data-bookmark-search>
+    <div class="view-tabs" aria-label="View">
+      <button type="button" class="view-tab active" data-view-mode="grid" aria-pressed="true">▦ Gallery</button>
+      <button type="button" class="view-tab" data-view-mode="list" aria-pressed="false">☰ Table</button>
     </div>
 
     <div class="toolbar-controls">
-      <div class="segmented" aria-label="View">
-        <button type="button" class="segmented__button active" data-view-mode="grid" aria-pressed="true">Grid</button>
-        <button type="button" class="segmented__button" data-view-mode="list" aria-pressed="false">List</button>
+      <div class="search">
+        <input type="search" placeholder="Search" aria-label="Search" data-bookmark-search>
       </div>
-
       <select class="select-control" aria-label="Sort" data-bookmark-sort>
         <option value="newest">Newest</option>
         <option value="oldest">Oldest</option>
