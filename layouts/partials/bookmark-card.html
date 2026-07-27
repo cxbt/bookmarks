@@ -1,5 +1,6 @@
 {{ $url := .Params.source_url | default .Params.normalized_url }}
 {{ $categories := delimit (.Params.categories | default slice) " " }}
+{{ $description := .Plain | plainify | strings.TrimSpace }}
 {{ $created := 0 }}
 {{ with .Params.created_at }}{{ $created = (time .).Unix }}{{ end }}
 {{ $createdLabel := "" }}
@@ -39,11 +40,7 @@
       <span>{{ $domain }}</span>
     </div>
 
-    <h2 class="bookmark-card__title">
-      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-    </h2>
-
-    <p class="bookmark-card__desc">{{ .Plain | truncate 132 }}</p>
+    <p class="bookmark-card__desc">{{ if $description }}{{ $description | truncate 132 }}{{ else }}{{ $url }}{{ end }}</p>
 
     <div class="bookmark-card__properties">
       <div class="bookmark-card__property bookmark-card__property--categories">

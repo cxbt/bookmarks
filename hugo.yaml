@@ -1,6 +1,6 @@
 baseURL: "https://bookmark.cxbt.kr/"
 languageCode: "en-us"
-title: "OpenBookmark"
+title: "bookmark.cxbt.kr"
 enableRobotsTXT: true
 disableHugoGeneratorInject: true
 summaryLength: 24
