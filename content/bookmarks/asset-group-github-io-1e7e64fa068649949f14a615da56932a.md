@@ -10,10 +10,10 @@ categories: ["AI", "Bughunt"]
 read: ""
 nominate: ""
 created_at: "2026-08-12T02:01:18.899Z"
-updated_at: "2026-08-12T02:01:18.899Z"
+updated_at: "2026-08-12T02:01:33.151Z"
 backup_status: "queued"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/asset-group-github-io-1e7e64fa068649949f14a615da56932a.png"
 ---
 
