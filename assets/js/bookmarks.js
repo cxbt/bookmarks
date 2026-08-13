@@ -27,6 +27,15 @@ for (const card of document.querySelectorAll("[data-bookmark-card][data-external
     window.open(card.dataset.externalUrl, "_blank", "noopener,noreferrer");
   });
 
+  card.addEventListener("auxclick", (event) => {
+    if (event.button !== 1 || event.target.closest("a, button, input, select, textarea")) {
+      return;
+    }
+
+    event.preventDefault();
+    window.open(card.dataset.externalUrl, "_blank", "noopener,noreferrer");
+  });
+
   card.addEventListener("keydown", (event) => {
     if (event.key !== "Enter" || event.target !== card) {
       return;

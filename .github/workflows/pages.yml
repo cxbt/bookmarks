@@ -38,6 +38,9 @@ jobs:
       - name: Configure Pages
         uses: actions/configure-pages@v5
 
+      - name: Test interactions
+        run: node --test tests/bookmarks.test.mjs
+
       - name: Build
         run: hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
 
