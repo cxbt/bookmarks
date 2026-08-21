@@ -7,7 +7,7 @@ normalized_url: "https://samcurry.net/hacking-millions-of-modems"
 domain: "samcurry.net"
 favicon: "/images/favicons/samcurry-net-08539ce3178a469ab1d72ec08279be0f.png"
 categories: ["Bughunt", "Web"]
-created_at: "2026-07-23T07:32:07.147Z"
+created_at: "2024-07-02T13:14:00+09:00"
 updated_at: "2026-07-23T07:59:47.183Z"
 backup_status: "succeeded"
 backup_type: "singlefile"

@@ -7,7 +7,7 @@ normalized_url: "https://kbank-recruit.tistory.com/106"
 domain: "kbank-recruit.tistory.com"
 favicon: "/images/favicons/blog-kbanknow-com-947bc4b4abfa49d091e6bfd57a74bdb7.png"
 categories: ["AI", "Dev"]
-created_at: "2026-07-23T07:38:43.533Z"
+created_at: "2025-12-10T14:03:00+09:00"
 updated_at: "2026-08-21T06:46:08.959Z"
 backup_status: "succeeded"
 backup_type: "singlefile"

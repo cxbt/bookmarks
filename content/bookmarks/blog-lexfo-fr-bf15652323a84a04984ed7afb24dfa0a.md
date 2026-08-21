@@ -7,7 +7,7 @@ normalized_url: "https://blog.lexfo.fr/lightyear-file-dump.html"
 domain: "blog.lexfo.fr"
 favicon: "/images/favicons/blog-lexfo-fr-bf15652323a84a04984ed7afb24dfa0a.png"
 categories: ["Web"]
-created_at: "2026-07-23T07:37:14.480Z"
+created_at: "2025-03-14T14:19:00+09:00"
 updated_at: "2026-07-23T08:17:34.908Z"
 backup_status: "succeeded"
 backup_type: "singlefile"

@@ -7,7 +7,7 @@ normalized_url: "https://blog.huli.tw/2023/01/10/en/security-of-encrypt-or-hash-
 domain: "blog.huli.tw"
 favicon: "/images/favicons/blog-huli-tw-14bc7c2206cc45dbbaff9fa2f370eab2.png"
 categories: []
-created_at: "2026-07-23T07:28:58.357Z"
+created_at: "2024-07-02T13:04:00+09:00"
 updated_at: "2026-07-23T07:49:28.676Z"
 backup_status: "succeeded"
 backup_type: "singlefile"

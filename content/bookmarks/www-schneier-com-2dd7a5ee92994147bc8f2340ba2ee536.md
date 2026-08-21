@@ -7,7 +7,7 @@ normalized_url: "https://www.schneier.com/blog/archives/2023/01/the-fbi-identifi
 domain: "www.schneier.com"
 favicon: "/images/favicons/www-schneier-com-2dd7a5ee92994147bc8f2340ba2ee536.png"
 categories: []
-created_at: "2026-07-23T07:30:17.986Z"
+created_at: "2024-07-02T13:08:00+09:00"
 updated_at: "2026-07-23T07:53:43.791Z"
 backup_status: "succeeded"
 backup_type: "singlefile"

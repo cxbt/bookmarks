@@ -7,7 +7,7 @@ normalized_url: "https://embracethered.com/blog/posts/2024/chatgpt-persistent-de
 domain: "embracethered.com"
 favicon: "/images/favicons/embracethered-com-b4ac23c9d8ac42eb92ceea8560403124.png"
 categories: ["AI"]
-created_at: "2026-07-23T07:34:40.105Z"
+created_at: "2024-07-09T14:06:00+09:00"
 updated_at: "2026-07-23T08:08:56.823Z"
 backup_status: "succeeded"
 backup_type: "singlefile"

@@ -7,7 +7,7 @@ normalized_url: "https://blog.trailofbits.com/2025/06/17/unexpected-security-foo
 domain: "blog.trailofbits.com"
 favicon: "/images/favicons/blog-trailofbits-com-91b61760cd644a66a243c5978a5f96b9.png"
 categories: ["Bughunt"]
-created_at: "2026-07-23T07:38:18.843Z"
+created_at: "2025-06-27T18:37:00+09:00"
 updated_at: "2026-07-23T08:22:06.534Z"
 backup_status: "succeeded"
 backup_type: "singlefile"

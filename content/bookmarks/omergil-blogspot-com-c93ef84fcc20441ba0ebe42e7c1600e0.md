@@ -7,7 +7,7 @@ normalized_url: "https://omergil.blogspot.com/2017/02/web-cache-deception-attack
 domain: "omergil.blogspot.com"
 favicon: "/images/favicons/omergil-blogspot-com-c93ef84fcc20441ba0ebe42e7c1600e0.png"
 categories: []
-created_at: "2026-07-23T07:31:17.752Z"
+created_at: "2024-07-02T13:09:00+09:00"
 updated_at: "2026-07-23T07:56:56.707Z"
 backup_status: "succeeded"
 backup_type: "singlefile"

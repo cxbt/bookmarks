@@ -7,7 +7,7 @@ normalized_url: "https://browser.engineering"
 domain: "browser.engineering"
 favicon: "/images/favicons/browser-engineering-18de67e0b1cc44a0a3eb988d8f517dfa.png"
 categories: ["Web"]
-created_at: "2026-07-23T07:34:00.007Z"
+created_at: "2024-07-04T15:24:00+09:00"
 updated_at: "2026-07-23T08:06:16.578Z"
 backup_status: "succeeded"
 backup_type: "singlefile"

@@ -7,7 +7,7 @@ normalized_url: "https://projectdiscovery.io/blog/guide-to-dns-takeovers"
 domain: "projectdiscovery.io"
 favicon: "/images/favicons/projectdiscovery-io-677b0ebd093e4d92b19c93b6a0f0c75a.png"
 categories: ["Scan", "Web"]
-created_at: "2026-07-23T07:36:39.696Z"
+created_at: "2025-01-15T15:54:00+09:00"
 updated_at: "2026-07-23T08:15:19.891Z"
 backup_status: "succeeded"
 backup_type: "singlefile"

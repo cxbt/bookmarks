@@ -7,7 +7,7 @@ normalized_url: "https://github.com/Contrast-Security-OSS/Spring-Kafka-POC-CVE-2
 domain: "github.com"
 favicon: "/images/favicons/github-com-dcef5fb4aa5743458fa12c9d5f86e37a.png"
 categories: []
-created_at: "2026-07-23T07:29:47.921Z"
+created_at: "2024-07-02T13:06:00+09:00"
 updated_at: "2026-07-23T07:52:05.424Z"
 backup_status: "succeeded"
 backup_type: "singlefile"

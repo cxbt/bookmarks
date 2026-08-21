@@ -7,7 +7,7 @@ normalized_url: "https://labs.watchtowr.com/more-governments-backdoors-in-your-b
 domain: "labs.watchtowr.com"
 favicon: "/images/favicons/labs-watchtowr-com-83b4306aad8149539062026299cdf5cf.png"
 categories: ["Web"]
-created_at: "2026-07-23T07:36:19.926Z"
+created_at: "2025-01-10T16:23:00+09:00"
 updated_at: "2026-07-23T08:14:08.128Z"
 backup_status: "succeeded"
 backup_type: "singlefile"

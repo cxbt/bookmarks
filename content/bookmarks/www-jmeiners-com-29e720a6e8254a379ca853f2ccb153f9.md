@@ -7,7 +7,7 @@ normalized_url: "https://www.jmeiners.com/lc3-vm"
 domain: "www.jmeiners.com"
 favicon: ""
 categories: ["CS"]
-created_at: "2026-07-23T07:36:09.966Z"
+created_at: "2024-12-26T14:37:00+09:00"
 updated_at: "2026-07-23T08:13:41.487Z"
 backup_status: "succeeded"
 backup_type: "singlefile"

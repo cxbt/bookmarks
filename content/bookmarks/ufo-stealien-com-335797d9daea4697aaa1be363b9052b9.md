@@ -7,7 +7,7 @@ normalized_url: "https://ufo.stealien.com/2023-07-31/bughunting-vulnerability-ch
 domain: "ufo.stealien.com"
 favicon: "/images/favicons/ufo-stealien-com-335797d9daea4697aaa1be363b9052b9.png"
 categories: ["CVE", "Web"]
-created_at: "2026-07-23T07:31:46.981Z"
+created_at: "2024-07-02T13:11:00+09:00"
 updated_at: "2026-07-23T07:58:39.382Z"
 backup_status: "succeeded"
 backup_type: "singlefile"

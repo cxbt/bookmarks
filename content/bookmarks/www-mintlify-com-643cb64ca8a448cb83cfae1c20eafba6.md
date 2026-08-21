@@ -7,7 +7,7 @@ normalized_url: "https://mintlify.wiki/VineeTagarwaL-code/claude-code/concepts/h
 domain: "mintlify.wiki"
 favicon: "/images/favicons/www-mintlify-com-643cb64ca8a448cb83cfae1c20eafba6.png"
 categories: ["AI"]
-created_at: "2026-07-23T07:40:39.118Z"
+created_at: "2026-04-01T12:51:00+09:00"
 updated_at: "2026-08-21T06:51:53.568Z"
 backup_status: "succeeded"
 backup_type: "singlefile"

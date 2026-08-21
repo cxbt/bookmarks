@@ -7,7 +7,7 @@ normalized_url: "https://github.com/geeknik/the-nuclei-templates"
 domain: "github.com"
 favicon: "/images/favicons/github-com-a03465fc1fbf495aa7b7a834ecf69810.png"
 categories: []
-created_at: "2026-07-23T07:30:32.817Z"
+created_at: "2024-07-02T13:08:00+09:00"
 updated_at: "2026-07-23T07:54:35.854Z"
 backup_status: "succeeded"
 backup_type: "singlefile"

@@ -7,7 +7,7 @@ normalized_url: "https://localmess.github.io"
 domain: "localmess.github.io"
 favicon: ""
 categories: ["Web"]
-created_at: "2026-07-23T07:37:49.586Z"
+created_at: "2025-06-05T13:01:00+09:00"
 updated_at: "2026-07-23T08:20:03.698Z"
 backup_status: "succeeded"
 backup_type: "singlefile"

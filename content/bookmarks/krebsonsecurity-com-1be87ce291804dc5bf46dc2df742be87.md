@@ -7,7 +7,7 @@ normalized_url: "https://krebsonsecurity.com/2025/06/inside-a-dark-adtech-empire
 domain: "krebsonsecurity.com"
 favicon: "/images/favicons/krebsonsecurity-com-1be87ce291804dc5bf46dc2df742be87.png"
 categories: ["Web"]
-created_at: "2026-07-23T07:37:54.501Z"
+created_at: "2025-06-13T14:49:00+09:00"
 updated_at: "2026-07-23T08:20:58.401Z"
 backup_status: "succeeded"
 backup_type: "singlefile"

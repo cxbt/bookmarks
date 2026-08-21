@@ -7,7 +7,7 @@ normalized_url: "https://onlydev.tistory.com/157"
 domain: "onlydev.tistory.com"
 favicon: "/images/favicons/onlydev-tistory-com-e47928489ede400aa65417c9a37fe2b3.png"
 categories: []
-created_at: "2026-07-23T07:28:48.646Z"
+created_at: "2024-07-02T13:04:00+09:00"
 updated_at: "2026-07-23T07:49:02.199Z"
 backup_status: "succeeded"
 backup_type: "singlefile"

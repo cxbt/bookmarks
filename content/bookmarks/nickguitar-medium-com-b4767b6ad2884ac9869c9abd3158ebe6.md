@@ -7,7 +7,7 @@ normalized_url: "https://nickguitar.medium.com/hacking-nasa-critical-ssrf-subdom
 domain: "nickguitar.medium.com"
 favicon: "/images/favicons/nickguitar-medium-com-b4767b6ad2884ac9869c9abd3158ebe6.png"
 categories: ["Bughunt", "Web"]
-created_at: "2026-07-23T07:34:09.910Z"
+created_at: "2024-07-04T15:24:00+09:00"
 updated_at: "2026-07-23T08:06:41.545Z"
 backup_status: "succeeded"
 backup_type: "singlefile"

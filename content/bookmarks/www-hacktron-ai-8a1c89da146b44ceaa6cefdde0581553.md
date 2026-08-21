@@ -7,7 +7,7 @@ normalized_url: "https://www.hacktron.ai/blog/watching-gpt-55-sol-ultra-write-a-
 domain: "www.hacktron.ai"
 favicon: "/images/favicons/www-hacktron-ai-8a1c89da146b44ceaa6cefdde0581553.png"
 categories: ["AI", "Bughunt"]
-created_at: "2026-07-23T07:41:29.092Z"
+created_at: "2026-07-16T14:55:00+09:00"
 updated_at: "2026-07-23T08:32:50.840Z"
 backup_status: "succeeded"
 backup_type: "singlefile"

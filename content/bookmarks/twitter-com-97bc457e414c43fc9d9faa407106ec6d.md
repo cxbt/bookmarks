@@ -7,7 +7,7 @@ normalized_url: "https://x.com/arkark_/status/1761943059040989581"
 domain: "x.com"
 favicon: "/images/favicons/twitter-com-97bc457e414c43fc9d9faa407106ec6d.png"
 categories: ["CTF"]
-created_at: "2026-07-23T07:32:41.768Z"
+created_at: "2024-07-02T13:14:00+09:00"
 updated_at: "2026-08-21T06:53:26.437Z"
 backup_status: "succeeded"
 backup_type: "singlefile"

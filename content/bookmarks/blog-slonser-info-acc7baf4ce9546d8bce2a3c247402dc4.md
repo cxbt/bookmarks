@@ -7,7 +7,7 @@ normalized_url: "https://blog.slonser.info/posts/make-self-xss-great-again"
 domain: "blog.slonser.info"
 favicon: ""
 categories: ["Web"]
-created_at: "2026-07-23T07:38:09.117Z"
+created_at: "2025-06-14T12:50:00+09:00"
 updated_at: "2026-07-23T08:21:25.452Z"
 backup_status: "succeeded"
 backup_type: "singlefile"

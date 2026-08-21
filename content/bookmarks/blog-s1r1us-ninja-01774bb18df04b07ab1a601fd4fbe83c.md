@@ -7,7 +7,7 @@ normalized_url: "https://blog.s1r1us.ninja/CTF/site-isolation"
 domain: "blog.s1r1us.ninja"
 favicon: "/images/favicons/blog-s1r1us-ninja-01774bb18df04b07ab1a601fd4fbe83c.png"
 categories: ["Web"]
-created_at: "2026-07-23T07:29:13.267Z"
+created_at: "2024-07-02T13:04:00+09:00"
 updated_at: "2026-07-23T07:50:11.422Z"
 backup_status: "succeeded"
 backup_type: "singlefile"

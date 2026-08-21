@@ -7,7 +7,7 @@ normalized_url: "https://github.com/m4ll0k/SecretFinder"
 domain: "github.com"
 favicon: "/images/favicons/github-com-58e7175dabbc4d8faacd5dabac9a0236.png"
 categories: ["Scan", "Web"]
-created_at: "2026-07-23T07:33:55.179Z"
+created_at: "2024-07-04T15:23:00+09:00"
 updated_at: "2026-07-23T08:06:04.878Z"
 backup_status: "succeeded"
 backup_type: "singlefile"

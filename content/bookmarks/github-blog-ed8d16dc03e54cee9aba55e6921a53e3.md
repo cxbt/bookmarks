@@ -7,7 +7,7 @@ normalized_url: "https://github.blog/security/vulnerability-research/mtls-when-c
 domain: "github.blog"
 favicon: "/images/favicons/github-blog-ed8d16dc03e54cee9aba55e6921a53e3.png"
 categories: []
-created_at: "2026-07-23T07:29:03.385Z"
+created_at: "2024-07-02T13:04:00+09:00"
 updated_at: "2026-08-21T06:48:20.318Z"
 backup_status: "succeeded"
 backup_type: "singlefile"

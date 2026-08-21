@@ -7,7 +7,7 @@ normalized_url: "https://github.com/zgzhang/cve-2024-6387-poc"
 domain: "github.com"
 favicon: "/images/favicons/github-com-dbe0525e24b741f7bbaf2715b8cbfc3b.png"
 categories: ["CVE"]
-created_at: "2026-07-23T07:33:50.282Z"
+created_at: "2024-07-04T15:22:00+09:00"
 updated_at: "2026-07-23T08:05:40.353Z"
 backup_status: "succeeded"
 backup_type: "singlefile"

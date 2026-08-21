@@ -7,7 +7,7 @@ normalized_url: "https://samcurry.net/hacking-kia"
 domain: "samcurry.net"
 favicon: "/images/favicons/samcurry-net-0148daa52ddb4912af65065da623b6b4.png"
 categories: ["Bughunt", "Web"]
-created_at: "2026-07-23T07:35:30.123Z"
+created_at: "2024-10-10T14:40:00+09:00"
 updated_at: "2026-07-23T08:11:46.211Z"
 backup_status: "succeeded"
 backup_type: "singlefile"

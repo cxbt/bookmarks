@@ -7,7 +7,7 @@ normalized_url: "https://projectdiscovery.io/blog/moveit-transfer-sql-injection"
 domain: "projectdiscovery.io"
 favicon: "/images/favicons/blog-projectdiscovery-io-c49df215e537461e97799ca24d19b3ff.png"
 categories: ["CVE", "Web"]
-created_at: "2026-07-23T07:18:21.100Z"
+created_at: "2024-07-02T13:00:00+09:00"
 updated_at: "2026-08-21T06:47:07.144Z"
 backup_status: "succeeded"
 backup_type: "singlefile"

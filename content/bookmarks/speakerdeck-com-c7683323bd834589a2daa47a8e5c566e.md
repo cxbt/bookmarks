@@ -7,7 +7,7 @@ normalized_url: "https://speakerdeck.com/pwntester/attacking-net-serialization"
 domain: "speakerdeck.com"
 favicon: "/images/favicons/speakerdeck-com-c7683323bd834589a2daa47a8e5c566e.png"
 categories: []
-created_at: "2026-07-23T07:31:27.556Z"
+created_at: "2024-07-02T13:09:00+09:00"
 updated_at: "2026-07-23T07:57:45.829Z"
 backup_status: "succeeded"
 backup_type: "singlefile"

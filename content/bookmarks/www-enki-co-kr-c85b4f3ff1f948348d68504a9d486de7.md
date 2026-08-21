@@ -7,7 +7,7 @@ normalized_url: "https://www.enki.co.kr/media-center/blog/enki-redteam-ctf-jeopa
 domain: "www.enki.co.kr"
 favicon: "/images/favicons/www-enki-co-kr-c85b4f3ff1f948348d68504a9d486de7.png"
 categories: ["CTF", "Pentest"]
-created_at: "2026-07-23T07:40:19.216Z"
+created_at: "2026-03-26T17:00:00+09:00"
 updated_at: "2026-07-23T08:29:04.998Z"
 backup_status: "succeeded"
 backup_type: "singlefile"

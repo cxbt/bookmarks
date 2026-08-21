@@ -7,7 +7,7 @@ normalized_url: "https://securitylab.github.com/advisories/GHSL-2023-235_GHSL-20
 domain: "securitylab.github.com"
 favicon: "/images/favicons/securitylab-github-com-1cdd99456a1b4247a1a62d3b2069e955.png"
 categories: ["CVE", "Web"]
-created_at: "2026-07-23T07:32:36.674Z"
+created_at: "2024-07-02T13:14:00+09:00"
 updated_at: "2026-07-23T08:01:20.014Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
