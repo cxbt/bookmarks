@@ -8,10 +8,11 @@ domain: "str.lc"
 favicon: "/images/favicons/brycec-me-97100a2b77d04a149cdaf413a59d3ace.png"
 categories: ["CTF"]
 created_at: "2026-07-23T07:32:12.235Z"
-updated_at: "2026-07-23T08:00:01.381Z"
+updated_at: "2026-08-21T06:47:34.515Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
 thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/brycec-me-97100a2b77d04a149cdaf413a59d3ace.png"
+thumbnail_kind: "screenshot"
 ---
 
