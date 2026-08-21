@@ -8,10 +8,11 @@ domain: "projectdiscovery.io"
 favicon: "/images/favicons/blog-projectdiscovery-io-639bbf27068c4facbd6d8a3f5dd43df5.png"
 categories: ["Scan", "Web"]
 created_at: "2026-07-23T07:31:57.095Z"
-updated_at: "2026-07-23T07:59:11.752Z"
+updated_at: "2026-08-21T06:46:52.749Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
 thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/blog-projectdiscovery-io-639bbf27068c4facbd6d8a3f5dd43df5.png"
+thumbnail_kind: "screenshot"
 ---
 
