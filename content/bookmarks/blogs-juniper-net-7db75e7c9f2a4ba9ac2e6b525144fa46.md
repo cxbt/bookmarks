@@ -8,10 +8,11 @@ domain: "community.hpe.com"
 favicon: "/images/favicons/blogs-juniper-net-7db75e7c9f2a4ba9ac2e6b525144fa46.png"
 categories: []
 created_at: "2026-07-23T07:29:27.969Z"
-updated_at: "2026-07-23T07:51:07.581Z"
+updated_at: "2026-08-21T06:47:20.571Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
 thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/blogs-juniper-net-7db75e7c9f2a4ba9ac2e6b525144fa46.png"
+thumbnail_kind: "screenshot"
 ---
 
