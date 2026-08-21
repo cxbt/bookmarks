@@ -8,10 +8,11 @@ domain: "github.com"
 favicon: "/images/favicons/github-com-efc262e773c34e8ba978af97cbd8c9dd.png"
 categories: ["Scan"]
 created_at: "2026-07-23T07:33:06.288Z"
-updated_at: "2026-07-23T08:02:57.825Z"
+updated_at: "2026-08-21T06:48:37.522Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
 thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/github-com-efc262e773c34e8ba978af97cbd8c9dd.png"
+thumbnail_kind: "screenshot"
 ---
 
