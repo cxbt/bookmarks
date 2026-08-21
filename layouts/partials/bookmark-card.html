@@ -8,6 +8,8 @@
 {{ $createdLabel := "" }}
 {{ with .Params.created_at }}{{ $createdLabel = (time .).Format "2006-01-02 15:04" }}{{ end }}
 {{ $thumbnail := .Params.thumbnail | default "" }}
+{{ $thumbnailKind := .Params.thumbnail_kind | default "legacy" }}
+{{ if not (in (slice "screenshot" "pdf-preview" "image-preview" "generated-card" "failed" "legacy") $thumbnailKind) }}{{ $thumbnailKind = "legacy" }}{{ end }}
 {{ $hasThumbnail := false }}
 {{ if $thumbnail }}{{ $hasThumbnail = fileExists (printf "static/%s" (replaceRE "^/" "" $thumbnail)) }}{{ end }}
 {{ $favicon := .Params.favicon | default "" }}
@@ -16,8 +18,9 @@
 {{ $domain := .Params.domain | default "bookmark" }}
 {{ $initial := upper (substr $domain 0 1) }}
 <article
-  class="bookmark-card"
+  class="bookmark-card bookmark-card--thumbnail-{{ $thumbnailKind }}"
   data-bookmark-card
+  data-thumbnail-kind="{{ $thumbnailKind }}"
   data-title="{{ .Title }}"
   data-domain="{{ $domain }}"
   data-categories="{{ $categories | lower }}"
@@ -28,7 +31,16 @@
   role="link">
   <a class="bookmark-card__media" href="{{ $url }}" rel="noopener noreferrer" target="_blank" aria-label="{{ .Title }}">
     {{ if $hasThumbnail }}
-      <img src="{{ $thumbnail | relURL }}" alt="" loading="lazy" data-fallback-image>
+      <img src="{{ $thumbnail | relURL }}" alt="" loading="lazy" decoding="async" data-fallback-image>
+      <template data-thumbnail-fallback>
+        <div class="bookmark-card__fallback" aria-hidden="true">
+          {{ if $hasFavicon }}
+            <img src="{{ $favicon | relURL }}" alt="">
+          {{ else }}
+            <span class="fallback-mark">{{ $initial }}</span>
+          {{ end }}
+        </div>
+      </template>
     {{ else }}
       <div class="bookmark-card__fallback" aria-hidden="true">
         {{ if $hasFavicon }}

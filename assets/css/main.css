@@ -321,6 +321,13 @@ button.tag {
   object-fit: cover;
 }
 
+.bookmark-card--thumbnail-generated-card .bookmark-card__media > img,
+.bookmark-card--thumbnail-pdf-preview .bookmark-card__media > img,
+.bookmark-card--thumbnail-image-preview .bookmark-card__media > img {
+  background: var(--surface-muted);
+  object-fit: contain;
+}
+
 .bookmark-card__fallback,
 .detail-image__fallback {
   display: grid;

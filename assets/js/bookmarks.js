@@ -9,11 +9,14 @@ const viewButtons = Array.from(document.querySelectorAll("[data-view-mode]"));
 
 for (const image of document.querySelectorAll("[data-fallback-image]")) {
   image.addEventListener("error", () => {
-    const fallback = document.createElement("div");
-    fallback.className = "bookmark-card__fallback";
-    fallback.setAttribute("aria-hidden", "true");
-    fallback.innerHTML = '<span class="fallback-mark">?</span>';
-    image.replaceWith(fallback);
+    const template = image.parentElement?.querySelector("[data-thumbnail-fallback]");
+    const fallback = template?.content.firstElementChild?.cloneNode(true);
+
+    if (fallback) {
+      image.replaceWith(fallback);
+    } else {
+      image.remove();
+    }
   }, { once: true });
 }
 
