@@ -8,10 +8,11 @@ domain: "asset-group.github.io"
 favicon: "/images/favicons/asset-group-github-io-1e7e64fa068649949f14a615da56932a.ico"
 categories: ["AI", "Bughunt"]
 created_at: "2026-08-12T02:01:18.899Z"
-updated_at: "2026-08-12T02:01:38.154Z"
+updated_at: "2026-08-21T07:06:05.399Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
 thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/asset-group-github-io-1e7e64fa068649949f14a615da56932a.png"
 ---
 
+The AI refused to steal the secrets. So we handed it a form.
