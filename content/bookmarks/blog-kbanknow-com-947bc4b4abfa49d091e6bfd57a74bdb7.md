@@ -2,9 +2,9 @@
 id: "20260723-blog-kbanknow-com-blog-kbanknow-com"
 title: "blog.kbanknow.com"
 slug: "blog-kbanknow-com-947bc4b4abfa49d091e6bfd57a74bdb7"
-source_url: "https://blog.kbanknow.com/106"
-normalized_url: "https://blog.kbanknow.com/106"
-domain: "blog.kbanknow.com"
+source_url: "https://kbank-recruit.tistory.com/106"
+normalized_url: "https://kbank-recruit.tistory.com/106"
+domain: "kbank-recruit.tistory.com"
 favicon: "/images/favicons/blog-kbanknow-com-947bc4b4abfa49d091e6bfd57a74bdb7.png"
 categories: ["AI", "Dev"]
 created_at: "2026-07-23T07:38:43.533Z"

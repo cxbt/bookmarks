@@ -2,9 +2,9 @@
 id: "20260723-twitter-com-twitter-com-b348a71c"
 title: "twitter.com"
 slug: "twitter-com-f355b3f5a46841cfabfc25de946b45d8"
-source_url: "https://twitter.com/aszx87410/status/1756941975201468774"
-normalized_url: "https://twitter.com/aszx87410/status/1756941975201468774"
-domain: "twitter.com"
+source_url: "https://x.com/aszx87410/status/1756941975201468774"
+normalized_url: "https://x.com/aszx87410/status/1756941975201468774"
+domain: "x.com"
 favicon: "/images/favicons/twitter-com-f355b3f5a46841cfabfc25de946b45d8.png"
 categories: ["CTF"]
 created_at: "2026-07-23T07:32:46.581Z"
@@ -14,5 +14,4 @@ backup_type: "singlefile"
 thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/twitter-com-f355b3f5a46841cfabfc25de946b45d8.png"
 ---
-
 

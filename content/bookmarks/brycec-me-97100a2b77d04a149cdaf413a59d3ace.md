@@ -2,9 +2,9 @@
 id: "20260723-brycec-me-brycec-me"
 title: "brycec.me"
 slug: "brycec-me-97100a2b77d04a149cdaf413a59d3ace"
-source_url: "https://brycec.me/posts/sekaictf_2022_challenges"
-normalized_url: "https://brycec.me/posts/sekaictf_2022_challenges"
-domain: "brycec.me"
+source_url: "https://str.lc/posts/sekaictf_2022_challenges/"
+normalized_url: "https://str.lc/posts/sekaictf_2022_challenges"
+domain: "str.lc"
 favicon: "/images/favicons/brycec-me-97100a2b77d04a149cdaf413a59d3ace.png"
 categories: ["CTF"]
 created_at: "2026-07-23T07:32:12.235Z"
@@ -14,5 +14,4 @@ backup_type: "singlefile"
 thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/brycec-me-97100a2b77d04a149cdaf413a59d3ace.png"
 ---
-
 
