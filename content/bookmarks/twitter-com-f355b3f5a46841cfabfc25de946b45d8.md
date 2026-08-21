@@ -8,10 +8,11 @@ domain: "x.com"
 favicon: "/images/favicons/twitter-com-f355b3f5a46841cfabfc25de946b45d8.png"
 categories: ["CTF"]
 created_at: "2026-07-23T07:32:46.581Z"
-updated_at: "2026-07-23T08:01:47.387Z"
+updated_at: "2026-08-21T06:50:51.683Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
 thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/twitter-com-f355b3f5a46841cfabfc25de946b45d8.png"
+thumbnail_kind: "screenshot"
 ---
 
