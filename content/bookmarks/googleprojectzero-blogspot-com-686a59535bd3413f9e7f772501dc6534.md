@@ -8,10 +8,11 @@ domain: "projectzero.google"
 favicon: "/images/favicons/googleprojectzero-blogspot-com-686a59535bd3413f9e7f772501dc6534.png"
 categories: ["AI"]
 created_at: "2026-07-23T07:34:35.054Z"
-updated_at: "2026-07-23T08:08:41.688Z"
+updated_at: "2026-08-21T06:48:46.314Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
 thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/googleprojectzero-blogspot-com-686a59535bd3413f9e7f772501dc6534.png"
+thumbnail_kind: "screenshot"
 ---
 
