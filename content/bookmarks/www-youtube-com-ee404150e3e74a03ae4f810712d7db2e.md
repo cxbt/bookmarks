@@ -8,11 +8,12 @@ domain: "www.youtube.com"
 favicon: "/images/favicons/www-youtube-com-ee404150e3e74a03ae4f810712d7db2e.ico"
 categories: ["Conference", "Embedded"]
 created_at: "2026-08-21T09:42:23.061Z"
-updated_at: "2026-08-21T09:42:55.011Z"
+updated_at: "2026-08-21T09:43:03.553Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/www-youtube-com-ee404150e3e74a03ae4f810712d7db2e.png"
+thumbnail_kind: "screenshot"
 ---
 
 DEF CON 32 - Anyone can hack IoT- Beginner’s Guide to Hacking Your First IoT Device - Andrew Bellini
