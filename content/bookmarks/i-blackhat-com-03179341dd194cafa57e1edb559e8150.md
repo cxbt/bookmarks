@@ -8,11 +8,12 @@ domain: "i.blackhat.com"
 favicon: ""
 categories: ["AI", "Methodology"]
 created_at: "2026-07-23T07:41:34.011Z"
-updated_at: "2026-07-23T08:35:01.780Z"
+updated_at: "2026-08-21T06:20:15.836Z"
 backup_status: "failed"
 backup_type: "singlefile"
-thumbnail_status: "failed"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/i-blackhat-com-03179341dd194cafa57e1edb559e8150.png"
+thumbnail_kind: "pdf-preview"
 ---
 
 Token Injection: Crashing LLM Inference With Special Tokens
