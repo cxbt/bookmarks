@@ -8,11 +8,11 @@ domain: "projectdiscovery.io"
 favicon: "/images/favicons/blog-projectdiscovery-io-36885cc130a440108369b13338be2679.png"
 categories: ["Web"]
 created_at: "2024-07-02T13:14:00+09:00"
-updated_at: "2026-08-21T06:46:35.685Z"
+updated_at: "2026-09-07T03:40:38.100Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
 thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/blog-projectdiscovery-io-36885cc130a440108369b13338be2679.png"
-thumbnail_kind: "screenshot"
+thumbnail_kind: "image-preview"
 ---
 
