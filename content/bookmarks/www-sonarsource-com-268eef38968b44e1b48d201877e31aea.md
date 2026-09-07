@@ -8,11 +8,12 @@ domain: "www.sonarsource.com"
 favicon: "/images/favicons/www-sonarsource-com-268eef38968b44e1b48d201877e31aea.png"
 categories: ["CVE", "Web"]
 created_at: "2024-07-02T13:14:00+09:00"
-updated_at: "2026-07-23T08:02:10.412Z"
+updated_at: "2026-09-07T03:47:57.860Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
 thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/www-sonarsource-com-268eef38968b44e1b48d201877e31aea.png"
+thumbnail_kind: "image-preview"
 ---
 
 
