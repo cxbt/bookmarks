@@ -8,11 +8,12 @@ domain: "www.qualys.com"
 favicon: "/images/favicons/www-qualys-com-5a732b274ed8400684e3e22ff72ae2c9.png"
 categories: ["CVE", "System"]
 created_at: "2024-07-02T13:23:00+09:00"
-updated_at: "2026-07-23T08:04:09.706Z"
+updated_at: "2026-09-07T03:47:10.522Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
 thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/www-qualys-com-5a732b274ed8400684e3e22ff72ae2c9.png"
+thumbnail_kind: "screenshot"
 ---
 
 
