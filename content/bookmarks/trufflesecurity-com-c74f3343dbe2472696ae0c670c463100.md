@@ -8,11 +8,12 @@ domain: "trufflesecurity.com"
 favicon: "/images/favicons/trufflesecurity-com-c74f3343dbe2472696ae0c670c463100.png"
 categories: ["Scan", "Web"]
 created_at: "2025-01-15T15:46:00+09:00"
-updated_at: "2026-07-23T08:15:04.205Z"
+updated_at: "2026-09-07T03:45:54.268Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
 thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/trufflesecurity-com-c74f3343dbe2472696ae0c670c463100.png"
+thumbnail_kind: "screenshot"
 ---
 
 
