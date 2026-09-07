@@ -8,12 +8,12 @@ domain: "xbow.com"
 favicon: "/images/favicons/xbow-com-6d68403147174fdabdb43ef6b10ddcad.ico"
 categories: ["AI", "Bughunt"]
 created_at: "2026-08-26T03:37:43.377Z"
-updated_at: "2026-08-26T03:38:14.853Z"
+updated_at: "2026-09-07T03:48:50.648Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
 thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/xbow-com-6d68403147174fdabdb43ef6b10ddcad.png"
-thumbnail_kind: "screenshot"
+thumbnail_kind: "image-preview"
 ---
 
 XBOW Mid-Year 2026 AI Model Security Research Report
