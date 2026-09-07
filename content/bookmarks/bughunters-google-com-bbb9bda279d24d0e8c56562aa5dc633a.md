@@ -8,7 +8,7 @@ domain: "bughunters.google.com"
 favicon: "/images/favicons/bughunters-google-com-bbb9bda279d24d0e8c56562aa5dc633a.png"
 categories: ["Web"]
 created_at: "2024-07-02T13:23:00+09:00"
-updated_at: "2026-08-21T06:47:50.789Z"
+updated_at: "2026-09-07T03:41:12.852Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
 thumbnail_status: "succeeded"
