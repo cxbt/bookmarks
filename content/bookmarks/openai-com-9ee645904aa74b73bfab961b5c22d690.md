@@ -8,11 +8,12 @@ domain: "openai.com"
 favicon: "/images/favicons/openai-com-9ee645904aa74b73bfab961b5c22d690.png"
 categories: ["AI"]
 created_at: "2024-07-04T15:03:00+09:00"
-updated_at: "2026-07-23T08:04:47.452Z"
+updated_at: "2026-09-07T03:43:46.940Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
 thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/openai-com-9ee645904aa74b73bfab961b5c22d690.png"
+thumbnail_kind: "screenshot"
 ---
 
 
