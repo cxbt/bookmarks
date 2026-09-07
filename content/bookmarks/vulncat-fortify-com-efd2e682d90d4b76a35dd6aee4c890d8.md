@@ -8,12 +8,12 @@ domain: "vulncat.fortify.com"
 favicon: "/images/favicons/vulncat-fortify-com-efd2e682d90d4b76a35dd6aee4c890d8.png"
 categories: ["Pentest"]
 created_at: "2024-09-03T14:20:00+09:00"
-updated_at: "2026-09-07T03:46:07.160Z"
+updated_at: "2026-09-07T03:57:15.707Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
 thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/vulncat-fortify-com-efd2e682d90d4b76a35dd6aee4c890d8.png"
-thumbnail_kind: "screenshot"
+thumbnail_kind: "generated-card"
 ---
 
 
