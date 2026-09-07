@@ -8,11 +8,12 @@ domain: "medium.com"
 favicon: "/images/favicons/medium-com-85f5d16d2f724cb39f7fd408e12bc5f1.png"
 categories: ["Bughunt", "Web"]
 created_at: "2024-07-10T13:30:00+09:00"
-updated_at: "2026-07-23T08:09:10.864Z"
+updated_at: "2026-09-07T03:42:44.630Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
 thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/medium-com-85f5d16d2f724cb39f7fd408e12bc5f1.png"
+thumbnail_kind: "generated-card"
 ---
 
 
