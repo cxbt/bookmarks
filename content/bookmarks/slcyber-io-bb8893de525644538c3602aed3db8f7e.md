@@ -8,7 +8,7 @@ domain: "www.slcyber.io"
 favicon: "/images/favicons/slcyber-io-bb8893de525644538c3602aed3db8f7e.png"
 categories: ["Pentest", "Web"]
 created_at: "2025-06-27T10:56:00+09:00"
-updated_at: "2026-08-21T06:49:51.430Z"
+updated_at: "2026-09-07T03:45:10.101Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
 thumbnail_status: "succeeded"
