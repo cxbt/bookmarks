@@ -8,11 +8,12 @@ domain: "www.youtube.com"
 favicon: "/images/favicons/www-youtube-com-30752c93673b4ad8aba3fe8cd0475c82.png"
 categories: ["Scan", "Web"]
 created_at: "2024-07-02T13:14:00+09:00"
-updated_at: "2026-07-23T07:59:33.482Z"
+updated_at: "2026-09-08T07:16:15.456Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
 thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/www-youtube-com-30752c93673b4ad8aba3fe8cd0475c82.png"
+thumbnail_kind: "image-preview"
 ---
 
 
