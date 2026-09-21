@@ -8,11 +8,12 @@ domain: "blog.naver.com"
 favicon: "/images/favicons/blog-naver-com-9b01dba6725a4529ae5721f6a9f0a3c8.ico"
 categories: ["Policy"]
 created_at: "2026-09-21T07:57:18.982Z"
-updated_at: "2026-09-21T07:57:40.851Z"
+updated_at: "2026-09-21T07:57:49.369Z"
 backup_status: "succeeded"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/blog-naver-com-9b01dba6725a4529ae5721f6a9f0a3c8.png"
+thumbnail_kind: "screenshot"
 ---
 
 
