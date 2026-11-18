@@ -8,11 +8,12 @@ domain: "storage.googleapis.com"
 favicon: "/images/favicons/storage-googleapis-com-9b747bbfd7bf4cca9fb0260b24c10bd7.png"
 categories: ["AI", "Human"]
 created_at: "2026-11-18T08:18:51.365Z"
-updated_at: "2026-11-18T08:18:51.365Z"
+updated_at: "2026-11-18T08:19:07.205Z"
 backup_status: "queued"
 backup_type: "singlefile"
-thumbnail_status: "queued"
+thumbnail_status: "succeeded"
 thumbnail: "/images/bookmarks/storage-googleapis-com-9b747bbfd7bf4cca9fb0260b24c10bd7.png"
+thumbnail_kind: "pdf-preview"
 ---
 
 
